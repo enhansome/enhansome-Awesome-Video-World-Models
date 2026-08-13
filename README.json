@@ -1,0 +1,177 @@
+{
+  "items": [
+    {
+      "description": "If you find this survey helpful, please cite our work:",
+      "items": [],
+      "title": "📈 Citation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔥🔥🔥 Wolrd Model 🔥🔥🔥"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📚 Paper List"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. State"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1.1 Implicit State - Memory Mechanism"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Compression"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Dynamic Compression"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Static Compression"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Retrieval"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "External"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Internal"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Consolidation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1.2 Explicit State"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Coupled States"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hidden-Variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Parametric"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Decoupled States"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Semantics-oriented"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Geometry-oriented"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Dynamics"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2.1 Causal Architecture Reformulation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2.2 Causal Knowledge Integration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3. Evaluation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3.1 Quality"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3.2 Persistence"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Long-horizon Coherence"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Memory Capacity Tasks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3.3 Causality"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Temporal Reasoning and Physical Validity"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Interventions and Evaluation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Planning and Embodied Task Performance"
+    },
+    {
+      "description": "We would like to express our sincere gratitude to the Awesome-RL-for-LRMs repository for providing an excellent README template that inspired the structure and organization of this collection. Their well-designed format has been instrumental in helping us present our survey in a clear and accessible manner.",
+      "items": [],
+      "title": "🌟 Acknowledgment"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "✨ Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T17:31:13.921Z",
+    "original_repository": "hit-perfect/Awesome-Video-World-Models",
+    "original_repository_sha": "d2dec0ed8134345d25cf926e59c500bc30b98426",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Video-World-Models",
+    "enhanced_repository_description": null,
+    "title": "Awesome 😎A Mechanistic View on Video Generation as World Models: State and Dynamics😎 with stars"
+  }
+}
