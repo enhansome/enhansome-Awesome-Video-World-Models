@@ -201,7 +201,7 @@
                             "last_commit": "2026-08-24T02:57:42Z",
                             "owner": "FlagOpen",
                             "repo": "FlagEmbedding",
-                            "stars": 12079
+                            "stars": 12078
                           }
                         },
                         {
@@ -216,7 +216,7 @@
                             "last_commit": "2024-09-03T08:34:31Z",
                             "owner": "parthsarthi03",
                             "repo": "raptor",
-                            "stars": 1746
+                            "stars": 1745
                           }
                         },
                         {
@@ -246,7 +246,7 @@
                             "last_commit": "2025-10-16T01:28:50Z",
                             "owner": "lllyasviel",
                             "repo": "FramePack",
-                            "stars": 17226
+                            "stars": 17227
                           }
                         },
                         {
@@ -432,7 +432,7 @@
                             "last_commit": "2025-04-03T07:28:06Z",
                             "owner": "MoonshotAI",
                             "repo": "MoBA",
-                            "stars": 2168
+                            "stars": 2169
                           }
                         },
                         {
@@ -462,7 +462,7 @@
                             "last_commit": "2026-01-23T04:09:35Z",
                             "owner": "microsoft",
                             "repo": "unilm",
-                            "stars": 22195
+                            "stars": 22194
                           }
                         },
                         {
@@ -1037,7 +1037,7 @@
                     "last_commit": "2026-06-17T07:06:35Z",
                     "owner": "SandAI-org",
                     "repo": "MAGI-1",
-                    "stars": 3770
+                    "stars": 3771
                   }
                 },
                 {
@@ -1815,7 +1815,7 @@
                         "last_commit": "2026-08-24T06:09:55Z",
                         "owner": "meituan-longcat",
                         "repo": "WBench",
-                        "stars": 214
+                        "stars": 216
                       }
                     },
                     {
@@ -1905,7 +1905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:45:50.183Z",
+    "last_updated": "2026-08-24T17:06:22.319Z",
     "original_repository": "hit-perfect/Awesome-Video-World-Models",
     "original_repository_id": 1142144589,
     "original_repository_sha": "d2dec0ed8134345d25cf926e59c500bc30b98426",
