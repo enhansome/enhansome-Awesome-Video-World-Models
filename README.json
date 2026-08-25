@@ -5,8 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2025-12",
-          "description": "HY-World 1.5: A Systematic Framework for Interactive World Modeling with Real-Time Latency and Geometric Consistency Tencent Hunyuan",
+          "title": "HY-WorldPlay",
+          "description": "HY-World 1.5: A Systematic Framework for Interactive World Modeling with Real-Time Latency and Geometric Consistency  Tencent Hunyuan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -20,8 +20,8 @@
         },
         {
           "node_type": "item",
-          "title": "2026-01",
-          "description": "Advancing Open-source World Models Robbyant Team",
+          "title": "lingbot-world",
+          "description": "Advancing Open-source World Models  Robbyant Team",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-09T10:39:39Z",
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4386
+            "stars": 4389
           }
         }
       ],
@@ -49,7 +49,7 @@
                       "children": [
                         {
                           "node_type": "item",
-                          "title": "2022-04",
+                          "title": "TokenFusion",
                           "description": "Multimodal Token Fusion for Vision Transformers",
                           "children": [],
                           "repo_info": {
@@ -64,7 +64,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2022-10",
+                          "title": "ToMe",
                           "description": "Token Merging: Your ViT But Faster",
                           "children": [],
                           "repo_info": {
@@ -79,7 +79,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2023-05",
+                          "title": "DiffRate",
                           "description": "Diffrate: Differentiable Compression Rate for Efficient Vision Transformers",
                           "children": [],
                           "repo_info": {
@@ -94,7 +94,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2023-12",
+                          "title": "VidToMe",
                           "description": "VidToMe: Video Token Merging for Zero-Shot Video Editing",
                           "children": [],
                           "repo_info": {
@@ -109,7 +109,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2024-03",
+                          "title": "MCTF",
                           "description": "Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers",
                           "children": [],
                           "repo_info": {
@@ -124,7 +124,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-02",
+                          "title": "Sparse-VideoGen",
                           "description": "Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity",
                           "children": [],
                           "repo_info": {
@@ -134,12 +134,12 @@
                             "last_commit": "2026-07-04T04:13:42Z",
                             "owner": "svg-project",
                             "repo": "Sparse-VideoGen",
-                            "stars": 704
+                            "stars": 705
                           }
                         },
                         {
                           "node_type": "item",
-                          "title": "2026-02",
+                          "title": "Infinite-World",
                           "description": "Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory",
                           "children": [],
                           "repo_info": {
@@ -154,7 +154,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2026-03",
+                          "title": "WorldCache",
                           "description": "WorldCache: Content-Aware Caching for Accelerated Video World Models",
                           "children": [],
                           "repo_info": {
@@ -176,7 +176,7 @@
                       "children": [
                         {
                           "node_type": "item",
-                          "title": "2023-04",
+                          "title": "gisting",
                           "description": "Learning to Compress Prompts with Gist Tokens",
                           "children": [],
                           "repo_info": {
@@ -191,7 +191,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2024-01",
+                          "title": "FlagEmbedding",
                           "description": "Long Context Compression with Activation Beacon",
                           "children": [],
                           "repo_info": {
@@ -201,12 +201,12 @@
                             "last_commit": "2026-08-24T02:57:42Z",
                             "owner": "FlagOpen",
                             "repo": "FlagEmbedding",
-                            "stars": 12078
+                            "stars": 12081
                           }
                         },
                         {
                           "node_type": "item",
-                          "title": "2024-01",
+                          "title": "raptor",
                           "description": "Raptor: Recursive Abstractive Processing for Tree-Organized Retrieval",
                           "children": [],
                           "repo_info": {
@@ -216,12 +216,12 @@
                             "last_commit": "2024-09-03T08:34:31Z",
                             "owner": "parthsarthi03",
                             "repo": "raptor",
-                            "stars": 1745
+                            "stars": 1746
                           }
                         },
                         {
                           "node_type": "item",
-                          "title": "2024-10",
+                          "title": "Pyramid-Flow",
                           "description": "Pyramidal Flow Matching for Efficient Video Generative Modeling",
                           "children": [],
                           "repo_info": {
@@ -236,7 +236,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-04",
+                          "title": "FramePack",
                           "description": "Packing Input Frame Context in Next-Frame Prediction Models for Video Generation",
                           "children": [],
                           "repo_info": {
@@ -246,12 +246,12 @@
                             "last_commit": "2025-10-16T01:28:50Z",
                             "owner": "lllyasviel",
                             "repo": "FramePack",
-                            "stars": 17227
+                            "stars": 17228
                           }
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-11",
+                          "title": "TempoMaster",
                           "description": "TempoMaster: Efficient Long Video Generation via Next-Frame-Rate Prediction",
                           "children": [],
                           "repo_info": {
@@ -280,7 +280,7 @@
                       "children": [
                         {
                           "node_type": "item",
-                          "title": "2025-04",
+                          "title": "ragme",
                           "description": "RAGME: Retrieval Augmented Video Generation for Enhanced Motion Realism",
                           "children": [],
                           "repo_info": {
@@ -295,7 +295,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-04",
+                          "title": "WorldMem",
                           "description": "WorldMem: Long-term Consistent World Simulation with Memory",
                           "children": [],
                           "repo_info": {
@@ -310,7 +310,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-09",
+                          "title": "MotionRAG",
                           "description": "MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation",
                           "children": [],
                           "repo_info": {
@@ -325,7 +325,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-10",
+                          "title": "Ctrl-World",
                           "description": "Ctrl-World: A Controllable Generative World Model for Robot Manipulation",
                           "children": [],
                           "repo_info": {
@@ -340,7 +340,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-11",
+                          "title": "DiT-Mem",
                           "description": "Learning Plug-and-play Memory for Guiding Video Diffusion Models",
                           "children": [],
                           "repo_info": {
@@ -355,7 +355,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2026-02",
+                          "title": "AnchorWeave",
                           "description": "AnchorWeave: World-Consistent Video Generation with Retrieved Local Spatial Memories",
                           "children": [],
                           "repo_info": {
@@ -370,7 +370,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2026-03",
+                          "title": "seoul-world-model",
                           "description": "Seoul World Model: Grounding World Simulation Models in a Real-World Metropolis",
                           "children": [],
                           "repo_info": {
@@ -380,12 +380,12 @@
                             "last_commit": "2026-03-17T03:52:08Z",
                             "owner": "naver-ai",
                             "repo": "seoul-world-model",
-                            "stars": 626
+                            "stars": 627
                           }
                         },
                         {
                           "node_type": "item",
-                          "title": "2026-06",
+                          "title": "DreamX-World",
                           "description": "DreamX-World 1.0: A General-Purpose Interactive World Model",
                           "children": [],
                           "repo_info": {
@@ -407,7 +407,7 @@
                       "children": [
                         {
                           "node_type": "item",
-                          "title": "2025-02",
+                          "title": "Sparse-VideoGen",
                           "description": "Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity",
                           "children": [],
                           "repo_info": {
@@ -417,12 +417,12 @@
                             "last_commit": "2026-07-04T04:13:42Z",
                             "owner": "svg-project",
                             "repo": "Sparse-VideoGen",
-                            "stars": 704
+                            "stars": 705
                           }
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-02",
+                          "title": "MoBA",
                           "description": "MoBA: Mixture of Block Attention for Long-Context LLMs",
                           "children": [],
                           "repo_info": {
@@ -437,7 +437,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-05",
+                          "title": "Sparse-VideoGen",
                           "description": "Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic-Aware Permutation",
                           "children": [],
                           "repo_info": {
@@ -447,12 +447,12 @@
                             "last_commit": "2026-07-04T04:13:42Z",
                             "owner": "svg-project",
                             "repo": "Sparse-VideoGen",
-                            "stars": 704
+                            "stars": 705
                           }
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-06",
+                          "title": "unilm",
                           "description": "Rectified Sparse Attention",
                           "children": [],
                           "repo_info": {
@@ -462,12 +462,12 @@
                             "last_commit": "2026-01-23T04:09:35Z",
                             "owner": "microsoft",
                             "repo": "unilm",
-                            "stars": 22194
+                            "stars": 22193
                           }
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-06",
+                          "title": "Video-XL",
                           "description": "Video-XL-2: Towards Very Long-Video Understanding Through Task-Aware KV Sparsification",
                           "children": [],
                           "repo_info": {
@@ -482,7 +482,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-06",
+                          "title": "radial-attention",
                           "description": "Radial Attention: Sparse Attention with Energy Decay for Long Video Generation",
                           "children": [],
                           "repo_info": {
@@ -497,7 +497,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-06",
+                          "title": "VMoBA",
                           "description": "VMoBA: Mixture-of-Block Attention for Video Diffusion Models",
                           "children": [],
                           "repo_info": {
@@ -512,7 +512,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-10",
+                          "title": "MoGA",
                           "description": "MoGA: Mixture-of-Groups Attention for End-to-End Long Video Generation",
                           "children": [],
                           "repo_info": {
@@ -527,7 +527,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2026-06",
+                          "title": "CaR",
                           "description": "Compression and Retrieval: Implicit Memory Retrieval for Video World Models",
                           "children": [],
                           "repo_info": {
@@ -554,7 +554,7 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "2024-03",
+                      "title": "StreamingT2V",
                       "description": "StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text",
                       "children": [],
                       "repo_info": {
@@ -569,7 +569,7 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "2024-07",
+                      "title": "FreeLong",
                       "description": "FreeLong: Training-free Long Video Generation with SpectralBlend Temporal Attention",
                       "children": [],
                       "repo_info": {
@@ -584,7 +584,7 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "2025-03",
+                      "title": "FAR",
                       "description": "Long-context Autoregressive Video Modeling with Next-frame Prediction",
                       "children": [],
                       "repo_info": {
@@ -599,7 +599,7 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "2026-03",
+                      "title": "Anchor-Forcing",
                       "description": "Anchor Forcing: Streamable Interactive Video Diffusion with Anchor Memory and Three-Region RoPE",
                       "children": [],
                       "repo_info": {
@@ -630,7 +630,7 @@
                       "children": [
                         {
                           "node_type": "item",
-                          "title": "2025-09",
+                          "title": "Sana",
                           "description": "SANA-Video: Efficient Video Generation with Block Linear Diffusion Transformer",
                           "children": [],
                           "repo_info": {
@@ -640,7 +640,7 @@
                             "last_commit": "2026-08-23T10:12:16Z",
                             "owner": "NVlabs",
                             "repo": "Sana",
-                            "stars": 8811
+                            "stars": 8816
                           }
                         }
                       ],
@@ -652,7 +652,7 @@
                       "children": [
                         {
                           "node_type": "item",
-                          "title": "2025-04",
+                          "title": "ttt-video-dit",
                           "description": "One-minute Video Generation with Test-time Training",
                           "children": [],
                           "repo_info": {
@@ -681,7 +681,7 @@
                       "children": [
                         {
                           "node_type": "item",
-                          "title": "2024-12",
+                          "title": "Owl",
                           "description": "Owl-1: Omni World Model for Consistent Long Video Generation",
                           "children": [],
                           "repo_info": {
@@ -696,7 +696,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2026-05",
+                          "title": "IAMFlow",
                           "description": "Advancing Narrative Long Video Generation via Training-Free Identity-Aware Memory",
                           "children": [],
                           "repo_info": {
@@ -718,7 +718,7 @@
                       "children": [
                         {
                           "node_type": "item",
-                          "title": "2024-09",
+                          "title": "ViewCrafter",
                           "description": "ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis",
                           "children": [],
                           "repo_info": {
@@ -733,7 +733,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-01",
+                          "title": "StarGen",
                           "description": "StarGen: A Spatiotemporal Autoregression Framework with Video Diffusion Model for Scalable and Controllable Scene Generation",
                           "children": [],
                           "repo_info": {
@@ -748,7 +748,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-03",
+                          "title": "GEN3C",
                           "description": "Gen3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control",
                           "children": [],
                           "repo_info": {
@@ -758,12 +758,12 @@
                             "last_commit": "2026-06-15T19:11:34Z",
                             "owner": "nv-tlabs",
                             "repo": "GEN3C",
-                            "stars": 1407
+                            "stars": 1408
                           }
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-03",
+                          "title": "FlexWorld",
                           "description": "FlexWorld: Progressively Expanding 3D Scenes for Flexible-view Synthesis",
                           "children": [],
                           "repo_info": {
@@ -778,7 +778,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-03",
+                          "title": "GenFusion",
                           "description": "GenFusion: Closing the Loop Between Reconstruction and Generation via Videos",
                           "children": [],
                           "repo_info": {
@@ -793,7 +793,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-04",
+                          "title": "Scene-Splatter",
                           "description": "Scene Splatter: Momentum 3D Scene Generation from Single Image with Video Diffusion Model",
                           "children": [],
                           "repo_info": {
@@ -808,7 +808,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-04",
+                          "title": "Uni3C",
                           "description": "Uni3C: Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation",
                           "children": [],
                           "repo_info": {
@@ -823,7 +823,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-06",
+                          "title": "HunyuanWorld-Voyager",
                           "description": "Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation",
                           "children": [],
                           "repo_info": {
@@ -838,7 +838,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-06",
+                          "title": "spmem",
                           "description": "Video World Models with Long-term Spatial Memory",
                           "children": [],
                           "repo_info": {
@@ -853,7 +853,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-06",
+                          "title": "vmem",
                           "description": "VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory",
                           "children": [],
                           "repo_info": {
@@ -868,7 +868,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-08",
+                          "title": "Matrix-3D",
                           "description": "Matrix-3D: Omnidirectional Explorable 3D World Generation",
                           "children": [],
                           "repo_info": {
@@ -883,7 +883,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2025-10",
+                          "title": "EvoWorld",
                           "description": "EvoWorld: Evolving Panoramic World Generation with Explicit 3D Memory",
                           "children": [],
                           "repo_info": {
@@ -898,7 +898,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2026-03",
+                          "title": "WorldStereo",
                           "description": "WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories",
                           "children": [],
                           "repo_info": {
@@ -913,7 +913,7 @@
                         },
                         {
                           "node_type": "item",
-                          "title": "2026-06",
+                          "title": "LatentSpatialMemory",
                           "description": "Latent Spatial Memory for Video World Models",
                           "children": [],
                           "repo_info": {
@@ -952,7 +952,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2024-07",
+                  "title": "diffusion-forcing",
                   "description": "Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion",
                   "children": [],
                   "repo_info": {
@@ -967,7 +967,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-12",
+                  "title": "CausVid",
                   "description": "From Slow Bidirectional to Fast Autoregressive Video Diffusion Models",
                   "children": [],
                   "repo_info": {
@@ -982,7 +982,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-12",
+                  "title": "NOVA",
                   "description": "Autoregressive Video Generation without Vector Quantization",
                   "children": [],
                   "repo_info": {
@@ -997,7 +997,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "AR-Diffusion",
                   "description": "AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion",
                   "children": [],
                   "repo_info": {
@@ -1012,7 +1012,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "FAR",
                   "description": "Long-context Autoregressive Video Modeling with Next-frame Prediction",
                   "children": [],
                   "repo_info": {
@@ -1027,7 +1027,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "MAGI-1",
                   "description": "MAGI-1: Autoregressive Video Generation at Scale",
                   "children": [],
                   "repo_info": {
@@ -1042,7 +1042,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "Video-GPT",
                   "description": "Video-GPT via Next Clip Diffusion",
                   "children": [],
                   "repo_info": {
@@ -1057,7 +1057,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "Self-Forcing",
                   "description": "Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion",
                   "children": [],
                   "repo_info": {
@@ -1072,7 +1072,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-07",
+                  "title": "Lumos",
                   "description": "Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective",
                   "children": [],
                   "repo_info": {
@@ -1082,12 +1082,12 @@
                     "last_commit": "2026-04-06T03:29:38Z",
                     "owner": "alibaba-damo-academy",
                     "repo": "Lumos",
-                    "stars": 233
+                    "stars": 236
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "LongLive",
                   "description": "LongLive: Real-time Interactive Long Video Generation",
                   "children": [],
                   "repo_info": {
@@ -1097,12 +1097,12 @@
                     "last_commit": "2026-08-07T02:35:21Z",
                     "owner": "NVlabs",
                     "repo": "LongLive",
-                    "stars": 2561
+                    "stars": 2562
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-09",
+                  "title": "RollingForcing",
                   "description": "Rolling Forcing: Autoregressive Long Video Diffusion in Real Time",
                   "children": [],
                   "repo_info": {
@@ -1117,7 +1117,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-10",
+                  "title": "Self-Forcing-Plus-Plus",
                   "description": "Self-Forcing++: Towards Minute-Scale High-Quality Video Generation",
                   "children": [],
                   "repo_info": {
@@ -1132,7 +1132,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026-02",
+                  "title": "Causal-Forcing",
                   "description": "Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation",
                   "children": [],
                   "repo_info": {
@@ -1147,7 +1147,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026-02",
+                  "title": "DriveWorld-VLA",
                   "description": "DriveWorld-VLA: Unified Latent-Space World Modeling with Vision-Language-Action for Autonomous Driving",
                   "children": [],
                   "repo_info": {
@@ -1162,7 +1162,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026-03",
+                  "title": "HiAR",
                   "description": "HiAR: Hierarchical Autoregressive Video Generation with Denoising Stages",
                   "children": [],
                   "repo_info": {
@@ -1177,7 +1177,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026-03",
+                  "title": "diagdistill",
                   "description": "Streaming Autoregressive Video Generation via Diagonal Distillation",
                   "children": [],
                   "repo_info": {
@@ -1192,7 +1192,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026-03",
+                  "title": "SoulX-LiveAct",
                   "description": "Towards Hour-Scale Real-Time Human Animation with Neighbor Forcing and ConvKV Memory",
                   "children": [],
                   "repo_info": {
@@ -1202,12 +1202,12 @@
                     "last_commit": "2026-06-15T09:50:41Z",
                     "owner": "Soul-AILab",
                     "repo": "SoulX-LiveAct",
-                    "stars": 1171
+                    "stars": 1174
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2026-04",
+                  "title": "DriveDreamer-Policy",
                   "description": "DriveDreamer-Policy: A Geometry-Grounded World-Action Model for Unified Generation and Planning",
                   "children": [],
                   "repo_info": {
@@ -1222,7 +1222,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026-05",
+                  "title": "Forcing-KV",
                   "description": "Forcing-KV: Hybrid KV Cache Compression for Efficient Autoregressive Video Diffusion Models",
                   "children": [],
                   "repo_info": {
@@ -1237,7 +1237,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026-05",
+                  "title": "Causal-Forcing",
                   "description": "Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation",
                   "children": [],
                   "repo_info": {
@@ -1252,7 +1252,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026-06",
+                  "title": "next-forcing",
                   "description": "Next Forcing: Causal World Modeling with Multi-Chunk Prediction",
                   "children": [],
                   "repo_info": {
@@ -1267,7 +1267,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026-06",
+                  "title": "rcm",
                   "description": "Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models",
                   "children": [],
                   "repo_info": {
@@ -1277,7 +1277,7 @@
                     "last_commit": "2026-06-25T16:45:05Z",
                     "owner": "NVlabs",
                     "repo": "rcm",
-                    "stars": 789
+                    "stars": 790
                   }
                 }
               ],
@@ -1289,7 +1289,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2023-09",
+                  "title": "VideoDirectorGPT",
                   "description": "VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-guided Planning",
                   "children": [],
                   "repo_info": {
@@ -1304,7 +1304,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-09",
+                  "title": "LLM-groundedVideoDiffusion",
                   "description": "LLM-grounded Video Diffusion Models",
                   "children": [],
                   "repo_info": {
@@ -1319,7 +1319,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-12",
+                  "title": "Owl",
                   "description": "Owl-1: Omni World Model for Consistent Long Video Generation",
                   "children": [],
                   "repo_info": {
@@ -1334,7 +1334,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-03",
+                  "title": "VLIPP",
                   "description": "VLIPP: Towards Physically Plausible Video Generation with Vision and Language Informed Physical Prior",
                   "children": [],
                   "repo_info": {
@@ -1349,7 +1349,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-05",
+                  "title": "Bagel",
                   "description": "Emerging Properties in Unified Multimodal Pretraining",
                   "children": [],
                   "repo_info": {
@@ -1364,7 +1364,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-06",
+                  "title": "counterfactual-video-generation",
                   "description": "Causally Steered Diffusion for Automated Video Counterfactual Generation",
                   "children": [],
                   "repo_info": {
@@ -1379,7 +1379,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-10",
+                  "title": "UniVideo",
                   "description": "UniVideo: Unified Understanding, Generation, and Editing for Videos",
                   "children": [],
                   "repo_info": {
@@ -1394,7 +1394,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026-02",
+                  "title": "DreamWorld",
                   "description": "DreamWorld: Unified World Modeling in Video Generation",
                   "children": [],
                   "repo_info": {
@@ -1409,7 +1409,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026-03",
+                  "title": "PSIVG",
                   "description": "Physical Simulator In-the-Loop Video Generation",
                   "children": [],
                   "repo_info": {
@@ -1424,7 +1424,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026-03",
+                  "title": "EVA",
                   "description": "EVA: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards",
                   "children": [],
                   "repo_info": {
@@ -1439,7 +1439,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026-06",
+                  "title": "world-model-self-distillation",
                   "description": "World Model Self-Distillation: Training World Models to Solve General Tasks",
                   "children": [],
                   "repo_info": {
@@ -1454,7 +1454,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026-06",
+                  "title": "PhysRAG",
                   "description": "PhysRAG: Enhancing Physics-Awareness in Video Generation via Retrieval-Augmented Generation",
                   "children": [],
                   "repo_info": {
@@ -1483,7 +1483,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2017-06",
+                  "title": "TTUR",
                   "description": "GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium",
                   "children": [],
                   "repo_info": {
@@ -1498,7 +1498,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2018-12",
+                  "title": "google-research",
                   "description": "Towards Accurate Generative Models of Video: A New Metric & Challenges",
                   "children": [],
                   "repo_info": {
@@ -1508,12 +1508,12 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38611
+                    "stars": 38614
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2023-11",
+                  "title": "VBench",
                   "description": "VBench: Comprehensive Benchmark Suite for Video Generative Models",
                   "children": [],
                   "repo_info": {
@@ -1523,12 +1523,12 @@
                     "last_commit": "2026-08-21T15:28:08Z",
                     "owner": "Vchitect",
                     "repo": "VBench",
-                    "stars": 1745
+                    "stars": 1746
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-07",
+                  "title": "FVMD-frechet-video-motion-distance",
                   "description": "Fréchet Video Motion Distance: A Metric for Evaluating Motion Consistency in Videos",
                   "children": [],
                   "repo_info": {
@@ -1543,7 +1543,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2024-11",
+                  "title": "VBench",
                   "description": "VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models",
                   "children": [],
                   "repo_info": {
@@ -1553,12 +1553,12 @@
                     "last_commit": "2026-08-21T15:28:08Z",
                     "owner": "Vchitect",
                     "repo": "VBench",
-                    "stars": 1745
+                    "stars": 1746
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2025-02",
+                  "title": "WorldModelBench",
                   "description": "WorldModelBench: Judging Video Generation Models as World Models",
                   "children": [],
                   "repo_info": {
@@ -1573,7 +1573,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026-05",
+                  "title": "PDI-Bench",
                   "description": "Quantitative Video World Model Evaluation for Geometric-Consistency",
                   "children": [],
                   "repo_info": {
@@ -1588,7 +1588,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2026-06",
+                  "title": "WorldOlympiad",
                   "description": "WorldOlympiad: Can Your World Model Survive a Triathlon?",
                   "children": [],
                   "repo_info": {
@@ -1612,7 +1612,7 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "2024-11",
+                      "title": "VBench",
                       "description": "VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models",
                       "children": [],
                       "repo_info": {
@@ -1622,12 +1622,12 @@
                         "last_commit": "2026-08-21T15:28:08Z",
                         "owner": "Vchitect",
                         "repo": "VBench",
-                        "stars": 1745
+                        "stars": 1746
                       }
                     },
                     {
                       "node_type": "item",
-                      "title": "2026-05",
+                      "title": "EntityBench",
                       "description": "EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation",
                       "children": [],
                       "repo_info": {
@@ -1649,7 +1649,7 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "2022-10",
+                      "title": "memory-maze",
                       "description": "Evaluating Long-Term Memory in 3D Mazes",
                       "children": [],
                       "repo_info": {
@@ -1664,7 +1664,7 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "2025-11",
+                      "title": "VR-Bench",
                       "description": "Reasoning via Video: The First Evaluation of Video Models' Reasoning Abilities through Maze-Solving Tasks",
                       "children": [],
                       "repo_info": {
@@ -1679,7 +1679,7 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "2026-02",
+                      "title": "MIND",
                       "description": "MIND: Benchmarking Memory Consistency and Action Control in World Models",
                       "children": [],
                       "repo_info": {
@@ -1708,7 +1708,7 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "2024-06",
+                      "title": "ChronoMagic-Bench",
                       "description": "ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation",
                       "children": [],
                       "repo_info": {
@@ -1723,7 +1723,7 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "2025-01",
+                      "title": "physics-IQ-benchmark",
                       "description": "Do Generative Video Models Understand Physical Principles?",
                       "children": [],
                       "repo_info": {
@@ -1738,7 +1738,7 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "2026-03",
+                      "title": "MME-CoF-Pro",
                       "description": "MME-CoF-Pro: Evaluating Reasoning Coherence in Video Generative Models with Text and Visual Hints",
                       "children": [],
                       "repo_info": {
@@ -1753,7 +1753,7 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "2026-06",
+                      "title": "pqsg",
                       "description": "Physics Question Scene Graph: Fine-grained Evaluation of Physical Plausibility in Text-to-Video Generation",
                       "children": [],
                       "repo_info": {
@@ -1775,7 +1775,7 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "2025-10",
+                      "title": "world-in-world",
                       "description": "World-in-World: World Models in a Closed-Loop World",
                       "children": [],
                       "repo_info": {
@@ -1790,7 +1790,7 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "2026-03",
+                      "title": "Omni-WorldBench",
                       "description": "Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models",
                       "children": [],
                       "repo_info": {
@@ -1805,7 +1805,7 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "2026-05",
+                      "title": "WBench",
                       "description": "WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation",
                       "children": [],
                       "repo_info": {
@@ -1820,7 +1820,7 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "2026-06",
+                      "title": "Dream.exe",
                       "description": "Dream.exe: Can Video Generation Models Dream Executable Robot Manipulation?",
                       "children": [],
                       "repo_info": {
@@ -1842,7 +1842,7 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "2019-09",
+                      "title": "RLBench",
                       "description": "RLBench: The Robot Learning Benchmark & Learning Environment",
                       "children": [],
                       "repo_info": {
@@ -1857,7 +1857,7 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "2021-12",
+                      "title": "calvin",
                       "description": "CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks",
                       "children": [],
                       "repo_info": {
@@ -1872,7 +1872,7 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "2025-01",
+                      "title": "VideoWorld",
                       "description": "VideoWorld: Exploring Knowledge Learning from Unlabeled Videos",
                       "children": [],
                       "repo_info": {
@@ -1905,7 +1905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:06:22.319Z",
+    "last_updated": "2026-08-25T06:39:01.406Z",
     "original_repository": "hit-perfect/Awesome-Video-World-Models",
     "original_repository_id": 1142144589,
     "original_repository_sha": "d2dec0ed8134345d25cf926e59c500bc30b98426",
