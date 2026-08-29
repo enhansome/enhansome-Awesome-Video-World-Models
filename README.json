@@ -48,7 +48,7 @@
             "open_issues": 41,
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4397,
+            "stars": 4398,
             "topics": [
               "aigc",
               "image-to-video",
@@ -311,7 +311,7 @@
                             "open_issues": 906,
                             "owner": "FlagOpen",
                             "repo": "FlagEmbedding",
-                            "stars": 12099,
+                            "stars": 12101,
                             "topics": [
                               "embeddings",
                               "information-retrieval",
@@ -396,7 +396,7 @@
                             "open_issues": 488,
                             "owner": "lllyasviel",
                             "repo": "FramePack",
-                            "stars": 17230,
+                            "stars": 17231,
                             "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
@@ -599,7 +599,7 @@
                             "open_issues": 5,
                             "owner": "AMAP-ML",
                             "repo": "DreamX-World",
-                            "stars": 761,
+                            "stars": 762,
                             "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
@@ -655,7 +655,7 @@
                             "open_issues": 14,
                             "owner": "MoonshotAI",
                             "repo": "MoBA",
-                            "stars": 2172,
+                            "stars": 2173,
                             "topics": [
                               "flash-attention",
                               "llm",
@@ -878,7 +878,7 @@
                         "open_issues": 40,
                         "owner": "Picsart-AI-Research",
                         "repo": "StreamingT2V",
-                        "stars": 1630,
+                        "stars": 1629,
                         "topics": [
                           "long-video-generation"
                         ]
@@ -980,7 +980,7 @@
                             "open_issues": 137,
                             "owner": "NVlabs",
                             "repo": "Sana",
-                            "stars": 8881,
+                            "stars": 8886,
                             "topics": [
                               "diffusion",
                               "dit",
@@ -1651,7 +1651,7 @@
                     "open_issues": 3,
                     "owner": "alibaba-damo-academy",
                     "repo": "Lumos",
-                    "stars": 260,
+                    "stars": 262,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
@@ -1672,7 +1672,7 @@
                     "open_issues": 20,
                     "owner": "NVlabs",
                     "repo": "LongLive",
-                    "stars": 2566,
+                    "stars": 2578,
                     "topics": [
                       "infra",
                       "long",
@@ -2330,7 +2330,7 @@
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38643,
+                    "stars": 38650,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2355,7 +2355,7 @@
                     "open_issues": 73,
                     "owner": "Vchitect",
                     "repo": "VBench",
-                    "stars": 1750,
+                    "stars": 1751,
                     "topics": [
                       "aigc",
                       "benchmark",
@@ -2406,7 +2406,7 @@
                     "open_issues": 73,
                     "owner": "Vchitect",
                     "repo": "VBench",
-                    "stars": 1750,
+                    "stars": 1751,
                     "topics": [
                       "aigc",
                       "benchmark",
@@ -2508,7 +2508,7 @@
                         "open_issues": 73,
                         "owner": "Vchitect",
                         "repo": "VBench",
-                        "stars": 1750,
+                        "stars": 1751,
                         "topics": [
                           "aigc",
                           "benchmark",
@@ -2825,7 +2825,7 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-08-28T06:24:32Z",
-                        "open_issues": 1,
+                        "open_issues": 0,
                         "owner": "meituan-longcat",
                         "repo": "WBench",
                         "stars": 224,
@@ -2901,7 +2901,7 @@
                         "open_issues": 52,
                         "owner": "mees",
                         "repo": "calvin",
-                        "stars": 974,
+                        "stars": 977,
                         "topics": [
                           "computer-vision",
                           "deep-learning",
@@ -2960,7 +2960,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:04:04.274Z",
+    "last_updated": "2026-08-29T19:28:32.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Mechanistic View on Video Generation as World Models: State and Dynamics",
