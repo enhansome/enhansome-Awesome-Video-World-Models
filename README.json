@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HY-World 1.5: A Systematic Framework for Interactive World Modeling with Real-Time Latency and Geometric Consistency",
+            "homepage": "https://3d-models.hunyuan.tencent.com/world/",
             "id": 1113569067,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-10T07:10:23Z",
+            "open_issues": 29,
             "owner": "Tencent-Hunyuan",
             "repo": "HY-WorldPlay",
-            "stars": 1587
+            "stars": 1587,
+            "topics": [
+              "3d",
+              "hunyuan",
+              "hunyuan-world",
+              "hunyuan3d",
+              "image-to-3d",
+              "world-model",
+              "world-models"
+            ]
           },
           "first_seen": "2026-08-29T00:37:57.597Z"
         },
@@ -26,12 +39,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advancing Open-source World Models",
+            "homepage": "https://technology.robbyant.com/lingbot-world",
             "id": 1143912065,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-09T10:39:39Z",
+            "open_issues": 41,
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4397
+            "stars": 4397,
+            "topics": [
+              "aigc",
+              "image-to-video",
+              "lingbot-world",
+              "video-generation",
+              "world-models"
+            ]
           },
           "first_seen": "2026-08-29T00:37:57.597Z"
         }
@@ -56,12 +80,25 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "[CVPR 2022] Code release for \"Multimodal Token Fusion for Vision Transformers\"",
+                            "homepage": "https://arxiv.org/pdf/2204.08721.pdf",
                             "id": 489903118,
                             "language": "Python",
+                            "license": "MIT",
                             "last_commit": "2022-07-21T06:54:36Z",
+                            "open_issues": 10,
                             "owner": "yikaiw",
                             "repo": "TokenFusion",
-                            "stars": 185
+                            "stars": 185,
+                            "topics": [
+                              "3d-detection",
+                              "image-translation",
+                              "multimodal-transformer",
+                              "rgbd-segmentation",
+                              "semantic-segmentation",
+                              "tokenfusion",
+                              "transformer"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -72,12 +109,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": true,
+                            "description": "A method to increase the speed and lower the memory footprint of existing vision transformers.",
+                            "homepage": null,
                             "id": 553339916,
                             "language": "Python",
+                            "license": "NOASSERTION",
                             "last_commit": "2024-06-17T11:22:47Z",
+                            "open_issues": 12,
                             "owner": "facebookresearch",
                             "repo": "ToMe",
-                            "stars": 1207
+                            "stars": 1207,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -88,12 +130,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "[ICCV 23]An approach to enhance the efficiency of Vision Transformer (ViT) by concurrently employing token pruning and token merging techniques, while incorporating a differentiable compression rate.",
+                            "homepage": null,
                             "id": 646724259,
                             "language": "Jupyter Notebook",
+                            "license": null,
                             "last_commit": "2023-07-14T09:03:05Z",
+                            "open_issues": 1,
                             "owner": "OpenGVLab",
                             "repo": "DiffRate",
-                            "stars": 103
+                            "stars": 103,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -104,12 +151,23 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Official Pytorch Implementation for \"VidToMe: Video Token Merging for Zero-Shot Video Editing\" (CVPR 2024)",
+                            "homepage": "https://vidtome-diffusion.github.io",
                             "id": 732911962,
                             "language": "Python",
+                            "license": "MIT",
                             "last_commit": "2025-01-22T01:43:15Z",
+                            "open_issues": 2,
                             "owner": "lixirui142",
                             "repo": "VidToMe",
-                            "stars": 228
+                            "stars": 228,
+                            "topics": [
+                              "stable-diffusion",
+                              "text-driven-editing",
+                              "video-editing",
+                              "video-to-video-translation",
+                              "zero-shot"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -120,12 +178,22 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Official implementation of CVPR 2024 paper \"Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers\".",
+                            "homepage": null,
                             "id": 774769356,
                             "language": "Python",
+                            "license": "MIT",
                             "last_commit": "2025-07-30T13:40:32Z",
+                            "open_issues": 0,
                             "owner": "mlvlab",
                             "repo": "MCTF",
-                            "stars": 40
+                            "stars": 40,
+                            "topics": [
+                              "computer-vision",
+                              "cvpr2024",
+                              "efficient-vision-transformers",
+                              "token-fusion"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -136,12 +204,24 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "[ICML2025, NeurIPS2025 Spotlight] Sparse VideoGen 1 & 2: Accelerating Video Diffusion Transformers with Sparse Attention",
+                            "homepage": "https://svg-project.github.io/",
                             "id": 945537207,
                             "language": "Python",
+                            "license": "Apache-2.0",
                             "last_commit": "2026-07-04T04:13:42Z",
+                            "open_issues": 12,
                             "owner": "svg-project",
                             "repo": "Sparse-VideoGen",
-                            "stars": 708
+                            "stars": 708,
+                            "topics": [
+                              "diffusion",
+                              "diffusion-model",
+                              "efficientml",
+                              "hunyuan-video",
+                              "sparse-attention",
+                              "wan"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -152,12 +232,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "[ICML 2026] | Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory",
+                            "homepage": null,
                             "id": 1142934108,
                             "language": "Python",
+                            "license": null,
                             "last_commit": "2026-05-04T14:07:30Z",
+                            "open_issues": 4,
                             "owner": "MeiGen-AI",
                             "repo": "Infinite-World",
-                            "stars": 197
+                            "stars": 197,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -168,12 +253,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "WorldCache: Content-Aware Caching for Accelerated Video World Models",
+                            "homepage": null,
                             "id": 1181974028,
                             "language": "Python",
+                            "license": null,
                             "last_commit": "2026-06-28T21:51:08Z",
+                            "open_issues": 0,
                             "owner": "umair1221",
                             "repo": "WorldCache",
-                            "stars": 23
+                            "stars": 23,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         }
@@ -191,12 +281,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Learning to Compress Prompts with Gist Tokens - https://arxiv.org/abs/2304.08467",
+                            "homepage": null,
                             "id": 629369483,
                             "language": "Python",
+                            "license": "Apache-2.0",
                             "last_commit": "2025-02-14T15:11:51Z",
+                            "open_issues": 1,
                             "owner": "jayelm",
                             "repo": "gisting",
-                            "stars": 321
+                            "stars": 321,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -207,12 +302,24 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Retrieval and Retrieval-augmented LLMs",
+                            "homepage": "http://www.bge-model.com/",
                             "id": 673596675,
                             "language": "Python",
+                            "license": "MIT",
                             "last_commit": "2026-08-24T02:57:42Z",
+                            "open_issues": 906,
                             "owner": "FlagOpen",
                             "repo": "FlagEmbedding",
-                            "stars": 12098
+                            "stars": 12099,
+                            "topics": [
+                              "embeddings",
+                              "information-retrieval",
+                              "llm",
+                              "retrieval-augmented-generation",
+                              "sentence-embeddings",
+                              "text-semantic-similarity"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -223,12 +330,28 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "The official implementation of RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval",
+                            "homepage": "https://arxiv.org/abs/2401.18059",
                             "id": 763825934,
                             "language": "Python",
+                            "license": "MIT",
                             "last_commit": "2024-09-03T08:34:31Z",
+                            "open_issues": 44,
                             "owner": "parthsarthi03",
                             "repo": "raptor",
-                            "stars": 1751
+                            "stars": 1751,
+                            "topics": [
+                              "agents",
+                              "clustering",
+                              "framework",
+                              "language-model",
+                              "llm",
+                              "machine-learning",
+                              "rag",
+                              "retrieval",
+                              "retrieval-augmented-generation",
+                              "vector-database"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -239,12 +362,21 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "[ICLR 2025] Pyramidal Flow Matching for Efficient Video Generative Modeling",
+                            "homepage": "https://pyramid-flow.github.io/",
                             "id": 868466289,
                             "language": "Python",
+                            "license": "MIT",
                             "last_commit": "2024-12-21T19:11:41Z",
+                            "open_issues": 73,
                             "owner": "jy0205",
                             "repo": "Pyramid-Flow",
-                            "stars": 3210
+                            "stars": 3210,
+                            "topics": [
+                              "diffusion-models",
+                              "flow-matching",
+                              "video-generation"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -255,12 +387,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Lets make video diffusion practical!",
+                            "homepage": null,
                             "id": 965159463,
                             "language": "Python",
+                            "license": "Apache-2.0",
                             "last_commit": "2025-10-16T01:28:50Z",
+                            "open_issues": 488,
                             "owner": "lllyasviel",
                             "repo": "FramePack",
-                            "stars": 17230
+                            "stars": 17230,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -271,12 +408,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "[CVPR2026] Efficient Long Video Generation via Next-Frame-Rate Prediction",
+                            "homepage": null,
                             "id": 1103743981,
                             "language": "Python",
+                            "license": "MIT",
                             "last_commit": "2025-12-19T10:28:26Z",
+                            "open_issues": 0,
                             "owner": "scottykma",
                             "repo": "TempoMaster",
-                            "stars": 10
+                            "stars": 10,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         }
@@ -301,12 +443,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": null,
+                            "homepage": null,
                             "id": 957832663,
                             "language": "Python",
+                            "license": null,
                             "last_commit": "2025-04-10T07:34:13Z",
+                            "open_issues": 0,
                             "owner": "helia95",
                             "repo": "ragme",
-                            "stars": 5
+                            "stars": 5,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -317,12 +464,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "[NeurIPS 2025] WorldMem: Long-term Consistent World Simulation with Memory",
+                            "homepage": null,
                             "id": 964998598,
                             "language": "Python",
+                            "license": "NOASSERTION",
                             "last_commit": "2026-02-21T10:25:05Z",
+                            "open_issues": 5,
                             "owner": "xizaoqu",
                             "repo": "WorldMem",
-                            "stars": 389
+                            "stars": 389,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -333,12 +485,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "[NeurIPS 2025] MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation",
+                            "homepage": null,
                             "id": 1060139878,
                             "language": "Python",
+                            "license": "MIT",
                             "last_commit": "2025-10-09T03:17:36Z",
+                            "open_issues": 2,
                             "owner": "MCG-NJU",
                             "repo": "MotionRAG",
-                            "stars": 27
+                            "stars": 27,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -349,12 +506,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "ICLR 2026 Paper: Ctrl-World",
+                            "homepage": "https://ctrl-world.github.io",
                             "id": 1072666451,
                             "language": "Python",
+                            "license": "MIT",
                             "last_commit": "2026-04-08T06:13:40Z",
+                            "open_issues": 17,
                             "owner": "Robert-gyj",
                             "repo": "Ctrl-World",
-                            "stars": 558
+                            "stars": 558,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -365,12 +527,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Learning Plug-and-play Memory for Guiding Video Diffusion Models",
+                            "homepage": "https://thrcle421.github.io/DiT-Mem-Web/",
                             "id": 1101133424,
                             "language": "Python",
+                            "license": null,
                             "last_commit": "2025-12-01T19:40:52Z",
+                            "open_issues": 0,
                             "owner": "Thrcle421",
                             "repo": "DiT-Mem",
-                            "stars": 26
+                            "stars": 26,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -381,12 +548,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Official implementation of AnchorWeave: World-Consistent Video Generation with Retrieved Local Spatial Memories",
+                            "homepage": null,
                             "id": 1159631160,
                             "language": "Python",
+                            "license": null,
                             "last_commit": "2026-02-17T13:03:08Z",
+                            "open_issues": 4,
                             "owner": "wz0919",
                             "repo": "AnchorWeave",
-                            "stars": 97
+                            "stars": 97,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -397,12 +569,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Seoul World Model: Grounding World Simulation Models in a Real-World Metropolis",
+                            "homepage": null,
                             "id": 1183042183,
                             "language": null,
+                            "license": null,
                             "last_commit": "2026-03-17T03:52:08Z",
+                            "open_issues": 0,
                             "owner": "naver-ai",
                             "repo": "seoul-world-model",
-                            "stars": 628
+                            "stars": 628,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -413,12 +590,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "DreamX-World: A General-Purpose Interactive World Model",
+                            "homepage": "https://amap-ml.github.io/DreamX_World",
                             "id": 1206682004,
                             "language": "Python",
+                            "license": "Apache-2.0",
                             "last_commit": "2026-07-23T09:44:41Z",
+                            "open_issues": 5,
                             "owner": "AMAP-ML",
                             "repo": "DreamX-World",
-                            "stars": 761
+                            "stars": 761,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         }
@@ -436,12 +618,24 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "[ICML2025, NeurIPS2025 Spotlight] Sparse VideoGen 1 & 2: Accelerating Video Diffusion Transformers with Sparse Attention",
+                            "homepage": "https://svg-project.github.io/",
                             "id": 945537207,
                             "language": "Python",
+                            "license": "Apache-2.0",
                             "last_commit": "2026-07-04T04:13:42Z",
+                            "open_issues": 12,
                             "owner": "svg-project",
                             "repo": "Sparse-VideoGen",
-                            "stars": 708
+                            "stars": 708,
+                            "topics": [
+                              "diffusion",
+                              "diffusion-model",
+                              "efficientml",
+                              "hunyuan-video",
+                              "sparse-attention",
+                              "wan"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -452,12 +646,25 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "MoBA: Mixture of Block Attention for Long-Context LLMs",
+                            "homepage": null,
                             "id": 934221781,
                             "language": "Python",
+                            "license": "MIT",
                             "last_commit": "2025-04-03T07:28:06Z",
+                            "open_issues": 14,
                             "owner": "MoonshotAI",
                             "repo": "MoBA",
-                            "stars": 2172
+                            "stars": 2172,
+                            "topics": [
+                              "flash-attention",
+                              "llm",
+                              "llm-serving",
+                              "llm-training",
+                              "moe",
+                              "pytorch",
+                              "transformer"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -468,12 +675,24 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "[ICML2025, NeurIPS2025 Spotlight] Sparse VideoGen 1 & 2: Accelerating Video Diffusion Transformers with Sparse Attention",
+                            "homepage": "https://svg-project.github.io/",
                             "id": 945537207,
                             "language": "Python",
+                            "license": "Apache-2.0",
                             "last_commit": "2026-07-04T04:13:42Z",
+                            "open_issues": 12,
                             "owner": "svg-project",
                             "repo": "Sparse-VideoGen",
-                            "stars": 708
+                            "stars": 708,
+                            "topics": [
+                              "diffusion",
+                              "diffusion-model",
+                              "efficientml",
+                              "hunyuan-video",
+                              "sparse-attention",
+                              "wan"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -484,12 +703,38 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+                            "homepage": "https://aka.ms/GeneralAI",
                             "id": 198350484,
                             "language": "Python",
+                            "license": "MIT",
                             "last_commit": "2026-08-26T08:16:01Z",
+                            "open_issues": 684,
                             "owner": "microsoft",
                             "repo": "unilm",
-                            "stars": 22196
+                            "stars": 22196,
+                            "topics": [
+                              "beit",
+                              "beit-3",
+                              "bitnet",
+                              "deepnet",
+                              "document-ai",
+                              "foundation-models",
+                              "kosmos",
+                              "kosmos-1",
+                              "layoutlm",
+                              "layoutxlm",
+                              "llm",
+                              "minilm",
+                              "mllm",
+                              "multimodal",
+                              "nlp",
+                              "pre-trained-model",
+                              "textdiffuser",
+                              "trocr",
+                              "unilm",
+                              "xlm-e"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -500,12 +745,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "🔥🔥First-ever hour scale video understanding models",
+                            "homepage": null,
                             "id": 860358193,
                             "language": "Python",
+                            "license": "Apache-2.0",
                             "last_commit": "2025-07-14T01:18:33Z",
+                            "open_issues": 53,
                             "owner": "VectorSpaceLab",
                             "repo": "Video-XL",
-                            "stars": 626
+                            "stars": 626,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -516,12 +766,24 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "[NeurIPS 2025] Radial Attention: O(nlogn) Sparse Attention with Energy Decay for Long Video Generation",
+                            "homepage": "https://hanlab.mit.edu/projects/radial-attention",
                             "id": 1004789600,
                             "language": "Python",
+                            "license": "Apache-2.0",
                             "last_commit": "2025-11-11T18:59:53Z",
+                            "open_issues": 20,
                             "owner": "mit-han-lab",
                             "repo": "radial-attention",
-                            "stars": 608
+                            "stars": 608,
+                            "topics": [
+                              "diffusion-models",
+                              "efficientml",
+                              "hunyuan-video",
+                              "mochi",
+                              "sparse-attention",
+                              "wan"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -532,12 +794,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Official implementation of paper \"VMoBA: Mixture-of-Block Attention for Video Diffusion Models\"",
+                            "homepage": null,
                             "id": 1008845225,
                             "language": "Python",
+                            "license": null,
                             "last_commit": "2025-07-01T02:30:40Z",
+                            "open_issues": 3,
                             "owner": "KlingAIResearch",
                             "repo": "VMoBA",
-                            "stars": 64
+                            "stars": 64,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -548,12 +815,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Mixture-of-Groups Attention for End-to-End Long Video Generation",
+                            "homepage": null,
                             "id": 1080984141,
                             "language": null,
+                            "license": null,
                             "last_commit": "2025-10-22T06:38:12Z",
+                            "open_issues": 3,
                             "owner": "bytedance-fanqie-ai",
                             "repo": "MoGA",
-                            "stars": 100
+                            "stars": 100,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -564,12 +836,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": null,
+                            "homepage": null,
                             "id": 1274487897,
                             "language": "Python",
+                            "license": null,
                             "last_commit": "2026-08-14T12:15:10Z",
+                            "open_issues": 0,
                             "owner": "Orange-3DV-Team",
                             "repo": "CaR",
-                            "stars": 20
+                            "stars": 20,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         }
@@ -592,12 +869,19 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[CVPR 2025] StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text",
+                        "homepage": "https://streamingt2v.github.io/",
                         "id": 773613693,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2025-03-27T08:38:48Z",
+                        "open_issues": 40,
                         "owner": "Picsart-AI-Research",
                         "repo": "StreamingT2V",
-                        "stars": 1630
+                        "stars": 1630,
+                        "topics": [
+                          "long-video-generation"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:37:57.597Z"
                     },
@@ -608,12 +892,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[NeurIPS 2024] The official implement of research paper \"FreeLong : Training-Free Long Video Generation with SpectralBlend Temporal Attention\"",
+                        "homepage": null,
                         "id": 824518224,
                         "language": null,
+                        "license": "MIT",
                         "last_commit": "2025-07-02T05:05:23Z",
+                        "open_issues": 2,
                         "owner": "aniki-ly",
                         "repo": "FreeLong",
-                        "stars": 67
+                        "stars": 67,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:37:57.597Z"
                     },
@@ -624,12 +913,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Code for: \"Long-Context Autoregressive Video Modeling with Next-Frame Prediction\"",
+                        "homepage": null,
                         "id": 954555336,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-04-23T10:19:48Z",
+                        "open_issues": 1,
                         "owner": "showlab",
                         "repo": "FAR",
-                        "stars": 314
+                        "stars": 314,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:37:57.597Z"
                     },
@@ -640,12 +934,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[ECCV2026] Anchor Forcing is  a cache-centric framework for interactive streaming video generation that preserves visual quality and coherent motion across prompt switches ",
+                        "homepage": null,
                         "id": 1174186905,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2026-05-04T16:15:17Z",
+                        "open_issues": 3,
                         "owner": "vivoCameraResearch",
                         "repo": "Anchor-Forcing",
-                        "stars": 28
+                        "stars": 28,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:37:57.597Z"
                     }
@@ -672,12 +971,32 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+                            "homepage": "https://nvlabs.github.io/Sana/docs/",
                             "id": 871368615,
                             "language": "Python",
+                            "license": "Apache-2.0",
                             "last_commit": "2026-08-27T09:12:35Z",
+                            "open_issues": 137,
                             "owner": "NVlabs",
                             "repo": "Sana",
-                            "stars": 8879
+                            "stars": 8881,
+                            "topics": [
+                              "diffusion",
+                              "dit",
+                              "linear-transformer",
+                              "nvfp4",
+                              "pytorch",
+                              "reinforcement-learning",
+                              "sana",
+                              "streaming-video",
+                              "system-algorithm-deisgn",
+                              "text-to-image-generation",
+                              "text-to-video",
+                              "transformers",
+                              "video-generation",
+                              "world-models"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         }
@@ -695,12 +1014,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Official PyTorch implementation of One-Minute Video Generation with Test-Time Training",
+                            "homepage": "https://test-time-training.github.io/video-dit",
                             "id": 962131440,
                             "language": "Python",
+                            "license": "MIT",
                             "last_commit": "2026-02-25T04:11:26Z",
+                            "open_issues": 8,
                             "owner": "test-time-training",
                             "repo": "ttt-video-dit",
-                            "stars": 2449
+                            "stars": 2449,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         }
@@ -725,12 +1049,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": null,
+                            "homepage": null,
                             "id": 902426914,
                             "language": null,
+                            "license": null,
                             "last_commit": "2024-12-13T02:48:23Z",
+                            "open_issues": 2,
                             "owner": "huang-yh",
                             "repo": "Owl",
-                            "stars": 52
+                            "stars": 52,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -741,12 +1070,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Official repository for the paper \"Advancing Narrative Long Video Generation via Training-Free Identity-Aware Memory\"",
+                            "homepage": "https://eddie0521.github.io/projects/iamflow/",
                             "id": 1236162960,
                             "language": "Python",
+                            "license": "MIT",
                             "last_commit": "2026-05-30T12:25:59Z",
+                            "open_issues": 0,
                             "owner": "Eddie0521",
                             "repo": "IAMFlow",
-                            "stars": 31
+                            "stars": 31,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         }
@@ -764,12 +1098,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "[TPAMI 2025]  ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis",
+                            "homepage": "https://drexubery.github.io/ViewCrafter/",
                             "id": 832008194,
                             "language": "Python",
+                            "license": "Apache-2.0",
                             "last_commit": "2025-12-13T03:02:50Z",
+                            "open_issues": 47,
                             "owner": "Drexubery",
                             "repo": "ViewCrafter",
-                            "stars": 1587
+                            "stars": 1587,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -780,12 +1119,21 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "[CVPR 2025] Code for \"StarGen: A Spatiotemporal Autoregression Framework with Video Diffusion Model for Scalable and Controllable Scene Generation\".",
+                            "homepage": "https://zju3dv.github.io/StarGen",
                             "id": 915948876,
                             "language": null,
+                            "license": null,
                             "last_commit": "2025-01-13T07:25:10Z",
+                            "open_issues": 3,
                             "owner": "zju3dv",
                             "repo": "StarGen",
-                            "stars": 126
+                            "stars": 126,
+                            "topics": [
+                              "3d-aigc",
+                              "gen-ai",
+                              "spatial-intelligence"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -796,12 +1144,21 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "[CVPR 2025 Highlight] GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control",
+                            "homepage": "https://research.nvidia.com/labs/toronto-ai/GEN3C/",
                             "id": 942240636,
                             "language": "Jupyter Notebook",
+                            "license": "Apache-2.0",
                             "last_commit": "2026-06-15T19:11:34Z",
+                            "open_issues": 33,
                             "owner": "nv-tlabs",
                             "repo": "GEN3C",
-                            "stars": 1409
+                            "stars": 1409,
+                            "topics": [
+                              "3d-graphics",
+                              "camera-control",
+                              "video-diffusion-model"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -812,12 +1169,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Official PyTorch implementation for \"FlexWorld: Progressively Expanding 3D Scenes for Flexiable-View Synthesis\".",
+                            "homepage": null,
                             "id": 949862065,
                             "language": "Python",
+                            "license": "MIT",
                             "last_commit": "2025-09-11T10:07:12Z",
+                            "open_issues": 9,
                             "owner": "ML-GSAI",
                             "repo": "FlexWorld",
-                            "stars": 135
+                            "stars": 135,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -828,12 +1190,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "[CVPR 2025] GenFusion: Closing the Loop between Reconstruction and Generation via Videos",
+                            "homepage": "https://genfusion.sibowu.com",
                             "id": 952051574,
                             "language": "Python",
+                            "license": "MIT",
                             "last_commit": "2025-04-22T07:09:57Z",
+                            "open_issues": 2,
                             "owner": "Inception3D",
                             "repo": "GenFusion",
-                            "stars": 176
+                            "stars": 176,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -844,12 +1211,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "[CVPR 2025] Scene Splatter: Momentum 3D Scene Generation from Single Image with Video Diffusion Model",
+                            "homepage": null,
                             "id": 996048693,
                             "language": "C++",
+                            "license": "MIT",
                             "last_commit": "2025-06-26T09:28:07Z",
+                            "open_issues": 5,
                             "owner": "shengjun-zhang",
                             "repo": "Scene-Splatter",
-                            "stars": 34
+                            "stars": 34,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -860,12 +1232,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Uni3C: Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation [Siggraph Asian 2025]",
+                            "homepage": null,
                             "id": 968005903,
                             "language": "Python",
+                            "license": "Apache-2.0",
                             "last_commit": "2025-09-21T04:56:29Z",
+                            "open_issues": 14,
                             "owner": "alibaba-damo-academy",
                             "repo": "Uni3C",
-                            "stars": 566
+                            "stars": 566,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -876,12 +1253,27 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Voyager is an interactive RGBD video generation model conditioned on camera input, and supports real-time 3D reconstruction.",
+                            "homepage": "https://3d-models.hunyuan.tencent.com/world/",
                             "id": 1045509486,
                             "language": "Python",
+                            "license": "NOASSERTION",
                             "last_commit": "2026-04-15T17:30:08Z",
+                            "open_issues": 29,
                             "owner": "Tencent-Hunyuan",
                             "repo": "HunyuanWorld-Voyager",
-                            "stars": 1590
+                            "stars": 1590,
+                            "topics": [
+                              "3d",
+                              "3d-generation",
+                              "aigc",
+                              "hunyuan3d",
+                              "image-to-3d",
+                              "image-to-video",
+                              "scene-generation",
+                              "world-model",
+                              "world-models"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -892,12 +1284,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "[NeurIPS 2025] Video World Models with Long-term Spatial Memory",
+                            "homepage": "https://spmem.github.io/",
                             "id": 1185104022,
                             "language": "Python",
+                            "license": "Apache-2.0",
                             "last_commit": "2026-05-11T09:26:20Z",
+                            "open_issues": 1,
                             "owner": "spmem",
                             "repo": "spmem",
-                            "stars": 80
+                            "stars": 80,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -908,12 +1305,21 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "[ICCV 2025 ⭐highlight⭐] Implementation of VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory",
+                            "homepage": "https://v-mem.github.io/",
                             "id": 1007464582,
                             "language": "Python",
+                            "license": "MIT",
                             "last_commit": "2025-07-25T07:45:55Z",
+                            "open_issues": 12,
                             "owner": "runjiali-rl",
                             "repo": "vmem",
-                            "stars": 447
+                            "stars": 447,
+                            "topics": [
+                              "consistency",
+                              "video-generation",
+                              "world-models"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -924,12 +1330,34 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Generate large-scale explorable 3D scenes with high-quality panorama videos from a single image or text prompt.",
+                            "homepage": "https://matrix-3d.github.io/",
                             "id": 1035923648,
                             "language": "Python",
+                            "license": "MIT",
                             "last_commit": "2025-11-25T10:42:48Z",
+                            "open_issues": 31,
                             "owner": "SkyworkAI",
                             "repo": "Matrix-3D",
-                            "stars": 804
+                            "stars": 804,
+                            "topics": [
+                              "3d-generation",
+                              "3d-reconstruction",
+                              "3d-scene-generation",
+                              "aigc",
+                              "aigc3d",
+                              "genie",
+                              "genie3",
+                              "graphics",
+                              "image-to-3d",
+                              "image-to-video",
+                              "panorama-synthesis",
+                              "scene-generation",
+                              "text-to-3d",
+                              "text-to-video",
+                              "video-generation",
+                              "world-models"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -940,12 +1368,24 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "EvoWorld: Evolving Panoramic World Generation with Explicit 3D Memory",
+                            "homepage": "https://arxiv.org/abs/2510.01183",
                             "id": 1064925119,
                             "language": "Python",
+                            "license": "MIT",
                             "last_commit": "2026-01-13T20:25:27Z",
+                            "open_issues": 4,
                             "owner": "JiahaoPlus",
                             "repo": "EvoWorld",
-                            "stars": 74
+                            "stars": 74,
+                            "topics": [
+                              "3d-reconstruction",
+                              "computer-vision",
+                              "generative-ai",
+                              "memory",
+                              "video-generation",
+                              "world-models"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -956,12 +1396,20 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "[CVPR 2026] WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories (WorldExpand of HY-World 2.0)",
+                            "homepage": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
                             "id": 1170697479,
                             "language": "Python",
+                            "license": "Apache-2.0",
                             "last_commit": "2026-04-24T12:14:12Z",
+                            "open_issues": 0,
                             "owner": "FuchengSu",
                             "repo": "WorldStereo",
-                            "stars": 216
+                            "stars": 216,
+                            "topics": [
+                              "3d-reconstruction",
+                              "videogeneration"
+                            ]
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         },
@@ -972,12 +1420,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Latent Spatial Memory for Video World Models",
+                            "homepage": "https://aka.ms/latent-spatial-memory",
                             "id": 1226087495,
                             "language": "Python",
+                            "license": "MIT",
                             "last_commit": "2026-08-27T14:41:41Z",
+                            "open_issues": 4,
                             "owner": "microsoft",
                             "repo": "LatentSpatialMemory",
-                            "stars": 317
+                            "stars": 317,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
                         }
@@ -1012,12 +1465,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "code for \"Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion\"",
+                    "homepage": null,
                     "id": 820501957,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-06T02:31:32Z",
+                    "open_issues": 6,
                     "owner": "buoyancy99",
                     "repo": "diffusion-forcing",
-                    "stars": 1288
+                    "stars": 1288,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1028,12 +1486,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "(CVPR 2025) From Slow Bidirectional to Fast Autoregressive Video Diffusion Models",
+                    "homepage": null,
                     "id": 948291278,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-08-07T04:49:23Z",
+                    "open_issues": 45,
                     "owner": "tianweiy",
                     "repo": "CausVid",
-                    "stars": 1428
+                    "stars": 1428,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1044,12 +1507,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2025] Autoregressive Video Generation without Vector Quantization",
+                    "homepage": null,
                     "id": 904277704,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-10-29T02:21:04Z",
+                    "open_issues": 0,
                     "owner": "baaivision",
                     "repo": "NOVA",
-                    "stars": 661
+                    "stars": 661,
+                    "topics": [
+                      "autoregressive-models",
+                      "diffusion-models",
+                      "image-generation",
+                      "video-generation"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1060,12 +1533,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 937511287,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-03-11T09:36:48Z",
+                    "open_issues": 6,
                     "owner": "mzsun01",
                     "repo": "AR-Diffusion",
-                    "stars": 91
+                    "stars": 91,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1076,12 +1554,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for: \"Long-Context Autoregressive Video Modeling with Next-Frame Prediction\"",
+                    "homepage": null,
                     "id": 954555336,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-04-23T10:19:48Z",
+                    "open_issues": 1,
                     "owner": "showlab",
                     "repo": "FAR",
-                    "stars": 314
+                    "stars": 314,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1092,12 +1575,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MAGI-1: Autoregressive Video Generation at Scale",
+                    "homepage": "https://sand.ai",
                     "id": 970023948,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-17T07:06:35Z",
+                    "open_issues": 46,
                     "owner": "SandAI-org",
                     "repo": "MAGI-1",
-                    "stars": 3774
+                    "stars": 3774,
+                    "topics": [
+                      "autoregressive",
+                      "diffusion-models",
+                      "video-generation"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1108,12 +1600,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR2026] Video-GPT via Next Clip Diffusion.",
+                    "homepage": null,
                     "id": 983529763,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-06-02T12:27:16Z",
+                    "open_issues": 0,
                     "owner": "zhuangshaobin",
                     "repo": "Video-GPT",
-                    "stars": 45
+                    "stars": 45,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1124,12 +1621,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official codebase for \"Self Forcing: Bridging Training and Inference in Autoregressive Video Diffusion\" (NeurIPS 2025 Spotlight)",
+                    "homepage": null,
                     "id": 998699154,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-09-12T03:31:30Z",
+                    "open_issues": 65,
                     "owner": "guandeh17",
                     "repo": "Self-Forcing",
-                    "stars": 3490
+                    "stars": 3491,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1140,12 +1642,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2026] Lumos Project: Frontier video unified model research by Alibaba DAMO Academy.",
+                    "homepage": null,
                     "id": 1015776226,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-04-06T03:29:38Z",
+                    "open_issues": 3,
                     "owner": "alibaba-damo-academy",
                     "repo": "Lumos",
-                    "stars": 257
+                    "stars": 260,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1156,12 +1663,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Long Video Gen Infrastructure",
+                    "homepage": "https://nvlabs.github.io/LongLive",
                     "id": 1062167576,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-07T02:35:21Z",
+                    "open_issues": 20,
                     "owner": "NVlabs",
                     "repo": "LongLive",
-                    "stars": 2565
+                    "stars": 2566,
+                    "topics": [
+                      "infra",
+                      "long",
+                      "nvfp4",
+                      "parallel",
+                      "real-time",
+                      "video-generation"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1172,12 +1691,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2026] Official Repo for Rolling Forcing: Autoregressive Long Video Diffusion in Real Time",
+                    "homepage": "https://kunhao-liu.github.io/Rolling_Forcing_Webpage/",
                     "id": 1066884260,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-10-31T09:55:48Z",
+                    "open_issues": 15,
                     "owner": "TencentARC",
                     "repo": "RollingForcing",
-                    "stars": 457
+                    "stars": 457,
+                    "topics": [
+                      "efficient-tuning",
+                      "long-context",
+                      "long-video-generation",
+                      "real-time",
+                      "video-diffusion-model"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1188,12 +1718,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Repo for Self-Forcing++ High Quality Long Video Generation",
+                    "homepage": null,
                     "id": 1068830203,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-10-13T00:34:52Z",
+                    "open_issues": 6,
                     "owner": "justincui03",
                     "repo": "Self-Forcing-Plus-Plus",
-                    "stars": 270
+                    "stars": 270,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1204,12 +1739,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICML 2026] Official codebase for \"Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation\" & Causal Forcing++",
+                    "homepage": "https://thu-ml.github.io/CausalForcing.github.io/",
                     "id": 1147151321,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T04:58:43Z",
+                    "open_issues": 32,
                     "owner": "thu-ml",
                     "repo": "Causal-Forcing",
-                    "stars": 938
+                    "stars": 938,
+                    "topics": [
+                      "auto-regressive-diffusion-model",
+                      "autoregressive-models",
+                      "consistency-models",
+                      "diffusion",
+                      "diffusion-models",
+                      "distillation",
+                      "few-step-generation",
+                      "generative-ai",
+                      "text-to-video",
+                      "text-to-video-generation",
+                      "video-diffusion-model",
+                      "video-generation",
+                      "wan-video",
+                      "wan2",
+                      "wan21",
+                      "world-model",
+                      "world-models"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1220,12 +1778,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Offical repository of DriveWorld-VLA",
+                    "homepage": null,
                     "id": 1147013106,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-07-08T09:44:43Z",
+                    "open_issues": 7,
                     "owner": "liulin815",
                     "repo": "DriveWorld-VLA",
-                    "stars": 123
+                    "stars": 123,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1236,12 +1799,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV 2026]  sink-free, anti-drift causal AR Video Generation",
+                    "homepage": "https://jacky-hate.github.io/HiAR/",
                     "id": 1175240910,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-23T01:11:17Z",
+                    "open_issues": 3,
                     "owner": "Jacky-hate",
                     "repo": "HiAR",
-                    "stars": 155
+                    "stars": 155,
+                    "topics": [
+                      "aigc",
+                      "video-generation"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1252,12 +1823,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of <Streaming Autoregressive Video Generation via Diagonal Distillation> in ICLR 2026",
+                    "homepage": "https://spherelab.ai/diagdistill/",
                     "id": 1071786761,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-03-18T10:19:11Z",
+                    "open_issues": 2,
                     "owner": "Sphere-AI-Lab",
                     "repo": "diagdistill",
-                    "stars": 132
+                    "stars": 132,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1268,12 +1844,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official inference code for SoulX-LiveAct: Towards Hour-Scale Real-Time Human Animation with Neighbor Forcing and ConvKV Memory",
+                    "homepage": null,
                     "id": 1179686848,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-06-15T09:50:41Z",
+                    "open_issues": 20,
                     "owner": "Soul-AILab",
                     "repo": "SoulX-LiveAct",
-                    "stars": 1179
+                    "stars": 1179,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1284,12 +1865,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DriveDreamer-Policy: A Geometry-Grounded World–Action Model for Unified Generation and Planning",
+                    "homepage": null,
                     "id": 1199535419,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-03T10:38:24Z",
+                    "open_issues": 1,
                     "owner": "youngzhou1999",
                     "repo": "DriveDreamer-Policy",
-                    "stars": 59
+                    "stars": 59,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1300,12 +1886,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation for paper \"Forcing-KV: Hybrid KV Cache Compression for Efficient Autoregressive Video Diffusion Models\".",
+                    "homepage": "https://zju-jiyicheng.github.io/Forcing-KV-Page/",
                     "id": 1193328187,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-17T06:01:52Z",
+                    "open_issues": 0,
                     "owner": "zju-jiyicheng",
                     "repo": "Forcing-KV",
-                    "stars": 131
+                    "stars": 131,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1316,12 +1907,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICML 2026] Official codebase for \"Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation\" & Causal Forcing++",
+                    "homepage": "https://thu-ml.github.io/CausalForcing.github.io/",
                     "id": 1147151321,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T04:58:43Z",
+                    "open_issues": 32,
                     "owner": "thu-ml",
                     "repo": "Causal-Forcing",
-                    "stars": 938
+                    "stars": 938,
+                    "topics": [
+                      "auto-regressive-diffusion-model",
+                      "autoregressive-models",
+                      "consistency-models",
+                      "diffusion",
+                      "diffusion-models",
+                      "distillation",
+                      "few-step-generation",
+                      "generative-ai",
+                      "text-to-video",
+                      "text-to-video-generation",
+                      "video-diffusion-model",
+                      "video-generation",
+                      "wan-video",
+                      "wan2",
+                      "wan21",
+                      "world-model",
+                      "world-models"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1332,12 +1946,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Next Forcing: Causal World Modeling with Multi-Chunk Prediction (MCP)",
+                    "homepage": "https://gangweix.github.io/next-forcing/",
                     "id": 1263797851,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-16T06:43:10Z",
+                    "open_issues": 3,
                     "owner": "gangweix",
                     "repo": "next-forcing",
-                    "stars": 125
+                    "stars": 125,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1348,12 +1967,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "rCM & Causal-rCM: Leading and Unified Algorithms/Infrastructures for Bidirectional/Autoregressive Video Diffusion Distillation at Scale",
+                    "homepage": "https://arxiv.org/abs/2510.08431",
                     "id": 1072601510,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-25T16:45:05Z",
+                    "open_issues": 20,
                     "owner": "NVlabs",
                     "repo": "rcm",
-                    "stars": 794
+                    "stars": 794,
+                    "topics": [
+                      "autoregressive-video-generation",
+                      "consistency-model",
+                      "diffusion",
+                      "distillation",
+                      "distribution-matching",
+                      "few-step-generation",
+                      "flash-attention",
+                      "jacobian-vector-product",
+                      "meanflow",
+                      "real-time",
+                      "streaming-video",
+                      "video-generation",
+                      "wan-video",
+                      "world-models"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 }
@@ -1371,12 +2010,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "official implementation of VideoDirectorGPT:  Consistent Multi-scene Video Generation via LLM-Guided Planning (COLM 2024)",
+                    "homepage": null,
                     "id": 697004906,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-08-07T20:33:41Z",
+                    "open_issues": 2,
                     "owner": "HL-hanlin",
                     "repo": "VideoDirectorGPT",
-                    "stars": 182
+                    "stars": 182,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1387,12 +2031,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2024] LLM-grounded Video Diffusion Models (LVD): official implementation for the LVD paper",
+                    "homepage": "https://llm-grounded-video-diffusion.github.io/",
                     "id": 699459449,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-05-07T02:55:47Z",
+                    "open_issues": 5,
                     "owner": "TonyLianLong",
                     "repo": "LLM-groundedVideoDiffusion",
-                    "stars": 172
+                    "stars": 172,
+                    "topics": [
+                      "diffusion",
+                      "diffusion-models",
+                      "large-language-models",
+                      "llm",
+                      "text-to-image",
+                      "text-to-video",
+                      "text-to-video-generation",
+                      "video-generation"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1403,12 +2061,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 902426914,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-12-13T02:48:23Z",
+                    "open_issues": 2,
                     "owner": "huang-yh",
                     "repo": "Owl",
-                    "stars": 52
+                    "stars": 52,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1419,12 +2082,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV 2025] Pytorch implementation of \"VLIPP: Towards Physically Plausible Video Generation with Vision and Language Informed Physical Prior\"",
+                    "homepage": "https://madaoer.github.io/projects/physically_plausible_video_generation/",
                     "id": 961729298,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-07-28T02:44:29Z",
+                    "open_issues": 1,
                     "owner": "Madaoer",
                     "repo": "VLIPP",
-                    "stars": 55
+                    "stars": 55,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1435,12 +2103,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open-source unified multimodal model",
+                    "homepage": null,
                     "id": 967889784,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-04T17:01:02Z",
+                    "open_issues": 154,
                     "owner": "ByteDance-Seed",
                     "repo": "Bagel",
-                    "stars": 6160
+                    "stars": 6160,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1451,12 +2124,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " A causally faithful framework for counterfactual video generation, guided by a vision-language model (VLM).",
+                    "homepage": "https://nysp78.github.io/counterfactual-video-generation/",
                     "id": 920744841,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-05-21T14:36:40Z",
+                    "open_issues": 0,
                     "owner": "nysp78",
                     "repo": "counterfactual-video-generation",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "causality",
+                      "counterfactual",
+                      "diffusion-models",
+                      "vlms"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1467,12 +2150,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2026] UniVideo: Unified Understanding, Generation, and Editing for Videos",
+                    "homepage": "https://congwei1230.github.io/UniVideo/",
                     "id": 1072673171,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-03T22:56:57Z",
+                    "open_issues": 2,
                     "owner": "KlingAIResearch",
                     "repo": "UniVideo",
-                    "stars": 553
+                    "stars": 553,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1483,12 +2171,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DreamWorld: Unified World Modeling in Video Generation",
+                    "homepage": null,
                     "id": 1168335875,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-03-24T02:04:04Z",
+                    "open_issues": 4,
                     "owner": "ABU121111",
                     "repo": "DreamWorld",
-                    "stars": 65
+                    "stars": 65,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1499,12 +2192,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2026] Physical Simulator In-the-Loop Video Generation",
+                    "homepage": "https://vcai.mpi-inf.mpg.de/projects/PSIVG",
                     "id": 1163948030,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-01T11:50:26Z",
+                    "open_issues": 0,
                     "owner": "MarkHershey",
                     "repo": "PSIVG",
-                    "stars": 140
+                    "stars": 140,
+                    "topics": [
+                      "physics-simulation",
+                      "test-time-training",
+                      "video-generation",
+                      "video-generator"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1515,12 +2218,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Implementation of \"EVA: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards\"",
+                    "homepage": "https://eva-project-page.github.io/",
                     "id": 1185118980,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-05-13T18:14:20Z",
+                    "open_issues": 1,
                     "owner": "RobbinW",
                     "repo": "EVA",
-                    "stars": 62
+                    "stars": 62,
+                    "topics": [
+                      "embodied-ai",
+                      "video-generation",
+                      "world-model",
+                      "world-model-rl"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1531,12 +2244,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "World Model Self-Distillation project website",
+                    "homepage": "https://sebastian-stapf.github.io/world-model-self-distillation/",
                     "id": 1265005663,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-06-15T06:27:54Z",
+                    "open_issues": 2,
                     "owner": "sebastian-stapf",
                     "repo": "world-model-self-distillation",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1547,12 +2265,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1094167079,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-18T11:17:14Z",
+                    "open_issues": 2,
                     "owner": "sediment1024",
                     "repo": "PhysRAG",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 }
@@ -1577,12 +2300,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Two time-scale update rule for training GANs",
+                    "homepage": null,
                     "id": 95449617,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-12-14T12:30:40Z",
+                    "open_issues": 18,
                     "owner": "bioinf-jku",
                     "repo": "TTUR",
-                    "stars": 900
+                    "stars": 900,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1593,12 +2321,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Google Research",
+                    "homepage": "https://research.google",
                     "id": 151619717,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T09:11:14Z",
+                    "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38642
+                    "stars": 38643,
+                    "topics": [
+                      "ai",
+                      "machine-learning",
+                      "research"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1609,12 +2346,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR2024 Highlight] VBench - We Evaluate Video Generation",
+                    "homepage": "https://vchitect.github.io/VBench-project/",
                     "id": 724118604,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-21T15:28:08Z",
+                    "open_issues": 73,
                     "owner": "Vchitect",
                     "repo": "VBench",
-                    "stars": 1750
+                    "stars": 1750,
+                    "topics": [
+                      "aigc",
+                      "benchmark",
+                      "dataset",
+                      "evaluation-kit",
+                      "gen-ai",
+                      "stable-diffusion",
+                      "text-to-video",
+                      "video-generation"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1625,12 +2376,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fréchet Video Motion Distance: A Metric for Evaluating Motion Consistency in Videos",
+                    "homepage": null,
                     "id": 792984560,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-29T19:48:37Z",
+                    "open_issues": 1,
                     "owner": "DSL-Lab",
                     "repo": "FVMD-frechet-video-motion-distance",
-                    "stars": 84
+                    "stars": 84,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1641,12 +2397,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR2024 Highlight] VBench - We Evaluate Video Generation",
+                    "homepage": "https://vchitect.github.io/VBench-project/",
                     "id": 724118604,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-21T15:28:08Z",
+                    "open_issues": 73,
                     "owner": "Vchitect",
                     "repo": "VBench",
-                    "stars": 1750
+                    "stars": 1750,
+                    "topics": [
+                      "aigc",
+                      "benchmark",
+                      "dataset",
+                      "evaluation-kit",
+                      "gen-ai",
+                      "stable-diffusion",
+                      "text-to-video",
+                      "video-generation"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1657,12 +2427,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 939609351,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-07-29T00:24:11Z",
+                    "open_issues": 2,
                     "owner": "WorldModelBench-Team",
                     "repo": "WorldModelBench",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1673,12 +2448,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1166335676,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-05-20T15:47:06Z",
+                    "open_issues": 1,
                     "owner": "AnteaWu",
                     "repo": "PDI-Bench",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 },
@@ -1689,12 +2469,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WorldOlympiad: Can Your World Model Survive a Triathlon?",
+                    "homepage": "https://alibaba-damo-academy.github.io/WorldOlympiad/",
                     "id": 1259180310,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-07-15T23:19:11Z",
+                    "open_issues": 2,
                     "owner": "alibaba-damo-academy",
                     "repo": "WorldOlympiad",
-                    "stars": 56
+                    "stars": 56,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
                 }
@@ -1714,12 +2499,26 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[CVPR2024 Highlight] VBench - We Evaluate Video Generation",
+                        "homepage": "https://vchitect.github.io/VBench-project/",
                         "id": 724118604,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-08-21T15:28:08Z",
+                        "open_issues": 73,
                         "owner": "Vchitect",
                         "repo": "VBench",
-                        "stars": 1750
+                        "stars": 1750,
+                        "topics": [
+                          "aigc",
+                          "benchmark",
+                          "dataset",
+                          "evaluation-kit",
+                          "gen-ai",
+                          "stable-diffusion",
+                          "text-to-video",
+                          "video-generation"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:37:57.597Z"
                     },
@@ -1730,12 +2529,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 1238352403,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2026-05-15T03:26:41Z",
+                        "open_issues": 0,
                         "owner": "Catherine-R-He",
                         "repo": "EntityBench",
-                        "stars": 12
+                        "stars": 12,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:37:57.597Z"
                     }
@@ -1753,12 +2557,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Evaluating long-term memory of reinforcement learning algorithms",
+                        "homepage": null,
                         "id": 497586116,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2023-06-23T10:04:50Z",
+                        "open_issues": 12,
                         "owner": "jurgisp",
                         "repo": "memory-maze",
-                        "stars": 183
+                        "stars": 183,
+                        "topics": [
+                          "benchmark",
+                          "reinforcement-learning",
+                          "research"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:37:57.597Z"
                     },
@@ -1769,12 +2582,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "We introduce Reasoning via Video, a new paradigm that uses maze-solving video generation to probe multimodal reasoning; our VR-Bench shows that fine-tuned video models consistently outperform strong VLMs on long-horizon spatial planning tasks.",
+                        "homepage": "https://imyangc7.github.io/VRBench_Web/",
                         "id": 1094958414,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-02-04T13:53:36Z",
+                        "open_issues": 4,
                         "owner": "FoundationAgents",
                         "repo": "VR-Bench",
-                        "stars": 65
+                        "stars": 65,
+                        "topics": [
+                          "gemini-pro",
+                          "gpt-5",
+                          "sora2",
+                          "veo3",
+                          "video-reasoning",
+                          "wanxiang"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:37:57.597Z"
                     },
@@ -1785,12 +2610,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "The first open-domain closed-loop revisited benchmark for evaluating memory consistency and action control in world models.",
+                        "homepage": "https://csu-jpg.github.io/MIND.github.io/",
                         "id": 1150640230,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-07-02T08:22:53Z",
+                        "open_issues": 1,
                         "owner": "CSU-JPG",
                         "repo": "MIND",
-                        "stars": 77
+                        "stars": 77,
+                        "topics": [
+                          "3d",
+                          "aigc",
+                          "computer-vision",
+                          "image-to-video",
+                          "text-to-video",
+                          "world-model"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:37:57.597Z"
                     }
@@ -1815,12 +2652,31 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[NeurIPS 2024 D&B Spotlight🔥] ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation",
+                        "homepage": "https://pku-yuangroup.github.io/ChronoMagic-Bench/",
                         "id": 819698018,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-04-14T03:26:11Z",
+                        "open_issues": 2,
                         "owner": "PKU-YuanGroup",
                         "repo": "ChronoMagic-Bench",
-                        "stars": 213
+                        "stars": 213,
+                        "topics": [
+                          "aigc",
+                          "benchmark",
+                          "dataset",
+                          "diffusion-models",
+                          "evaluation",
+                          "evaluation-kit",
+                          "gen-ai",
+                          "metamorphic-video-generation",
+                          "open-sora-plan",
+                          "text-to-video",
+                          "time-lapse",
+                          "time-lapse-dataset",
+                          "video-generation"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:37:57.597Z"
                     },
@@ -1831,12 +2687,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Benchmarking physical understanding in generative video models",
+                        "homepage": "https://physics-iq.github.io/",
                         "id": 903246817,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2026-08-21T15:41:18Z",
+                        "open_issues": 10,
                         "owner": "google-deepmind",
                         "repo": "physics-IQ-benchmark",
-                        "stars": 333
+                        "stars": 333,
+                        "topics": [
+                          "benchmark",
+                          "generative-models",
+                          "physical-understanding",
+                          "video-generation"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:37:57.597Z"
                     },
@@ -1847,12 +2713,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official repository of MME-CoF-Pro: Evaluating Reasoning Coherence of Video Generative Models",
+                        "homepage": null,
                         "id": 1188923696,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2026-03-22T22:17:35Z",
+                        "open_issues": 0,
                         "owner": "yqi19",
                         "repo": "MME-CoF-Pro",
-                        "stars": 5
+                        "stars": 5,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:37:57.597Z"
                     },
@@ -1863,12 +2734,26 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Physics Question Scene Graph: Fine-grained Evaluation of Physical Plausibility in Text-to-Video Generation (ECCV 2026).",
+                        "homepage": null,
                         "id": 1278649493,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-06-25T07:07:11Z",
+                        "open_issues": 1,
                         "owner": "atinpothiraj",
                         "repo": "pqsg",
-                        "stars": 4
+                        "stars": 4,
+                        "topics": [
+                          "benchmark",
+                          "evaluation",
+                          "physical-plausibility",
+                          "physics",
+                          "scene-graph",
+                          "text-to-video",
+                          "video-generation",
+                          "vision-language-models"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:37:57.597Z"
                     }
@@ -1886,12 +2771,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": " \"World Models in a Closed-Loop World\" (ICLR'26 Oral)",
+                        "homepage": "https://world-in-world.github.io/",
                         "id": 1077232342,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-04-03T03:46:20Z",
+                        "open_issues": 1,
                         "owner": "World-In-World",
                         "repo": "world-in-world",
-                        "stars": 188
+                        "stars": 188,
+                        "topics": [
+                          "computer-vision",
+                          "embodied-ai",
+                          "generative-ai",
+                          "video-generation",
+                          "world-models"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:37:57.597Z"
                     },
@@ -1902,12 +2798,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A comprehensive benchmark specifically designed to evaluate the interactive response capabilities of world models in 4D settings.",
+                        "homepage": null,
                         "id": 1189559177,
                         "language": null,
+                        "license": null,
                         "last_commit": "2026-03-24T13:09:02Z",
+                        "open_issues": 1,
                         "owner": "AMAP-ML",
                         "repo": "Omni-WorldBench",
-                        "stars": 109
+                        "stars": 109,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:37:57.597Z"
                     },
@@ -1918,12 +2819,20 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation",
+                        "homepage": "https://meituan-longcat.github.io/WBench/",
                         "id": 1246588489,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-08-28T06:24:32Z",
+                        "open_issues": 1,
                         "owner": "meituan-longcat",
                         "repo": "WBench",
-                        "stars": 224
+                        "stars": 224,
+                        "topics": [
+                          "evaluation",
+                          "worldmodel"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:37:57.597Z"
                     },
@@ -1934,12 +2843,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Dream.exe: Can Video Generation Models Dream Executable Robot Manipulation?",
+                        "homepage": null,
                         "id": 1258149091,
                         "language": null,
+                        "license": null,
                         "last_commit": "2026-06-03T12:33:13Z",
+                        "open_issues": 2,
                         "owner": "showlab",
                         "repo": "Dream.exe",
-                        "stars": 32
+                        "stars": 32,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:37:57.597Z"
                     }
@@ -1957,12 +2871,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A large-scale benchmark and learning environment.",
+                        "homepage": "https://sites.google.com/corp/view/rlbench",
                         "id": 211181267,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2025-01-25T13:13:19Z",
+                        "open_issues": 93,
                         "owner": "stepjam",
                         "repo": "RLBench",
-                        "stars": 1812
+                        "stars": 1812,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:37:57.597Z"
                     },
@@ -1973,12 +2892,28 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "CALVIN - A benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks",
+                        "homepage": "http://calvin.cs.uni-freiburg.de",
                         "id": 387839793,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-09-08T08:52:01Z",
+                        "open_issues": 52,
                         "owner": "mees",
                         "repo": "calvin",
-                        "stars": 974
+                        "stars": 974,
+                        "topics": [
+                          "computer-vision",
+                          "deep-learning",
+                          "grounding",
+                          "manipulation",
+                          "natural-language-processing",
+                          "pytorch",
+                          "robotics",
+                          "vision",
+                          "vision-and-language",
+                          "vision-language"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:37:57.597Z"
                     },
@@ -1989,12 +2924,19 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[CVPR 2025] VideoWorld is a simple generative model that learns purely from unlabeled videos—much like how babies learn by observing their environment.",
+                        "homepage": null,
                         "id": 916999025,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-02-25T11:23:41Z",
+                        "open_issues": 13,
                         "owner": "ByteDance-Seed",
                         "repo": "VideoWorld",
-                        "stars": 798
+                        "stars": 799,
+                        "topics": [
+                          "research"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:37:57.597Z"
                     }
@@ -2018,15 +2960,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:37:57.597Z",
+    "last_updated": "2026-08-29T05:04:04.274Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A Mechanistic View on Video Generation as World Models: State and Dynamics",
+      "homepage": null,
       "id": 1142144589,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-06-27T10:34:09Z",
+      "open_issues": 1,
       "owner": "hit-perfect",
       "repo": "Awesome-Video-World-Models",
-      "stars": 60
+      "stars": 60,
+      "topics": [
+        "awesome-list",
+        "video-generation",
+        "video-memory",
+        "world-model",
+        "world-simulator"
+      ]
     },
     "original_repository_sha": "d2dec0ed8134345d25cf926e59c500bc30b98426",
     "enhanced_repository": "enhansome/enhansome-Awesome-Video-World-Models",
