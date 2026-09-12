@@ -48,7 +48,7 @@
             "open_issues": 41,
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4440,
+            "stars": 4442,
             "topics": [
               "aigc",
               "image-to-video",
@@ -241,7 +241,7 @@
                             "open_issues": 4,
                             "owner": "MeiGen-AI",
                             "repo": "Infinite-World",
-                            "stars": 198,
+                            "stars": 199,
                             "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
@@ -311,7 +311,7 @@
                             "open_issues": 908,
                             "owner": "FlagOpen",
                             "repo": "FlagEmbedding",
-                            "stars": 12153,
+                            "stars": 12152,
                             "topics": [
                               "embeddings",
                               "information-retrieval",
@@ -396,7 +396,7 @@
                             "open_issues": 489,
                             "owner": "lllyasviel",
                             "repo": "FramePack",
-                            "stars": 17250,
+                            "stars": 17252,
                             "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
@@ -578,7 +578,7 @@
                             "open_issues": 0,
                             "owner": "naver-ai",
                             "repo": "seoul-world-model",
-                            "stars": 640,
+                            "stars": 644,
                             "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
@@ -712,7 +712,7 @@
                             "open_issues": 685,
                             "owner": "microsoft",
                             "repo": "unilm",
-                            "stars": 22212,
+                            "stars": 22213,
                             "topics": [
                               "beit",
                               "beit-3",
@@ -980,7 +980,7 @@
                             "open_issues": 135,
                             "owner": "NVlabs",
                             "repo": "Sana",
-                            "stars": 9044,
+                            "stars": 9058,
                             "topics": [
                               "diffusion",
                               "dit",
@@ -1339,7 +1339,7 @@
                             "open_issues": 31,
                             "owner": "SkyworkAI",
                             "repo": "Matrix-3D",
-                            "stars": 817,
+                            "stars": 818,
                             "topics": [
                               "3d-generation",
                               "3d-reconstruction",
@@ -1584,7 +1584,7 @@
                     "open_issues": 46,
                     "owner": "SandAI-org",
                     "repo": "MAGI-1",
-                    "stars": 3783,
+                    "stars": 3785,
                     "topics": [
                       "autoregressive",
                       "diffusion-models",
@@ -1672,7 +1672,7 @@
                     "open_issues": 19,
                     "owner": "NVlabs",
                     "repo": "LongLive",
-                    "stars": 2616,
+                    "stars": 2618,
                     "topics": [
                       "infra",
                       "long",
@@ -1748,7 +1748,7 @@
                     "open_issues": 32,
                     "owner": "thu-ml",
                     "repo": "Causal-Forcing",
-                    "stars": 957,
+                    "stars": 959,
                     "topics": [
                       "auto-regressive-diffusion-model",
                       "autoregressive-models",
@@ -1853,7 +1853,7 @@
                     "open_issues": 20,
                     "owner": "Soul-AILab",
                     "repo": "SoulX-LiveAct",
-                    "stars": 1193,
+                    "stars": 1192,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
@@ -1916,7 +1916,7 @@
                     "open_issues": 32,
                     "owner": "thu-ml",
                     "repo": "Causal-Forcing",
-                    "stars": 957,
+                    "stars": 959,
                     "topics": [
                       "auto-regressive-diffusion-model",
                       "autoregressive-models",
@@ -2330,7 +2330,7 @@
                     "open_issues": 1992,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38737,
+                    "stars": 38740,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2780,7 +2780,7 @@
                         "open_issues": 1,
                         "owner": "World-In-World",
                         "repo": "world-in-world",
-                        "stars": 191,
+                        "stars": 192,
                         "topics": [
                           "computer-vision",
                           "embodied-ai",
@@ -2824,7 +2824,7 @@
                         "id": 1246588489,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-09-11T14:31:51Z",
+                        "last_commit": "2026-09-12T14:02:18Z",
                         "open_issues": 0,
                         "owner": "meituan-longcat",
                         "repo": "WBench",
@@ -2960,7 +2960,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:14:05.308Z",
+    "last_updated": "2026-09-12T18:38:06.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Mechanistic View on Video Generation as World Models: State and Dynamics",
