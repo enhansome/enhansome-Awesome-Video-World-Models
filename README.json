@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "Tencent-Hunyuan",
             "repo": "HY-WorldPlay",
-            "stars": 1606,
+            "stars": 1607,
             "topics": [
               "3d",
               "hunyuan",
@@ -48,7 +48,7 @@
             "open_issues": 41,
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4503,
+            "stars": 4504,
             "topics": [
               "aigc",
               "image-to-video",
@@ -980,7 +980,7 @@
                             "open_issues": 141,
                             "owner": "NVlabs",
                             "repo": "Sana",
-                            "stars": 9192,
+                            "stars": 9191,
                             "topics": [
                               "diffusion",
                               "dit",
@@ -1262,7 +1262,7 @@
                             "open_issues": 30,
                             "owner": "Tencent-Hunyuan",
                             "repo": "HunyuanWorld-Voyager",
-                            "stars": 1599,
+                            "stars": 1600,
                             "topics": [
                               "3d",
                               "3d-generation",
@@ -1339,7 +1339,7 @@
                             "open_issues": 31,
                             "owner": "SkyworkAI",
                             "repo": "Matrix-3D",
-                            "stars": 836,
+                            "stars": 837,
                             "topics": [
                               "3d-generation",
                               "3d-reconstruction",
@@ -1727,7 +1727,7 @@
                     "open_issues": 7,
                     "owner": "justincui03",
                     "repo": "Self-Forcing-Plus-Plus",
-                    "stars": 272,
+                    "stars": 273,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
@@ -1748,7 +1748,7 @@
                     "open_issues": 33,
                     "owner": "thu-ml",
                     "repo": "Causal-Forcing",
-                    "stars": 985,
+                    "stars": 986,
                     "topics": [
                       "auto-regressive-diffusion-model",
                       "autoregressive-models",
@@ -1916,7 +1916,7 @@
                     "open_issues": 33,
                     "owner": "thu-ml",
                     "repo": "Causal-Forcing",
-                    "stars": 985,
+                    "stars": 986,
                     "topics": [
                       "auto-regressive-diffusion-model",
                       "autoregressive-models",
@@ -2330,7 +2330,7 @@
                     "open_issues": 1996,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38861,
+                    "stars": 38862,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2880,7 +2880,7 @@
                         "open_issues": 94,
                         "owner": "stepjam",
                         "repo": "RLBench",
-                        "stars": 1823,
+                        "stars": 1824,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:37:57.597Z"
@@ -2960,7 +2960,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:53:08.162Z",
+    "last_updated": "2026-10-03T04:26:58.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Mechanistic View on Video Generation as World Models: State and Dynamics",
