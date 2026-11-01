@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "Tencent-Hunyuan",
             "repo": "HY-WorldPlay",
-            "stars": 1623,
+            "stars": 1624,
             "topics": [
               "3d",
               "hunyuan",
@@ -308,10 +308,10 @@
                             "language": "Python",
                             "license": "MIT",
                             "last_commit": "2026-10-27T09:50:16Z",
-                            "open_issues": 927,
+                            "open_issues": 929,
                             "owner": "FlagOpen",
                             "repo": "FlagEmbedding",
-                            "stars": 12289,
+                            "stars": 12292,
                             "topics": [
                               "embeddings",
                               "information-retrieval",
@@ -396,7 +396,7 @@
                             "open_issues": 496,
                             "owner": "lllyasviel",
                             "repo": "FramePack",
-                            "stars": 17337,
+                            "stars": 17338,
                             "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
@@ -712,7 +712,7 @@
                             "open_issues": 690,
                             "owner": "microsoft",
                             "repo": "unilm",
-                            "stars": 22237,
+                            "stars": 22238,
                             "topics": [
                               "beit",
                               "beit-3",
@@ -980,7 +980,7 @@
                             "open_issues": 133,
                             "owner": "NVlabs",
                             "repo": "Sana",
-                            "stars": 9728,
+                            "stars": 9738,
                             "topics": [
                               "diffusion",
                               "dit",
@@ -1153,7 +1153,7 @@
                             "open_issues": 33,
                             "owner": "nv-tlabs",
                             "repo": "GEN3C",
-                            "stars": 1444,
+                            "stars": 1446,
                             "topics": [
                               "3d-graphics",
                               "camera-control",
@@ -1429,7 +1429,7 @@
                             "open_issues": 1,
                             "owner": "microsoft",
                             "repo": "LatentSpatialMemory",
-                            "stars": 335,
+                            "stars": 336,
                             "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
@@ -1669,7 +1669,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-29T16:59:59Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "NVlabs",
                     "repo": "LongLive",
                     "stars": 2856,
@@ -1730,7 +1730,7 @@
                     "open_issues": 7,
                     "owner": "justincui03",
                     "repo": "Self-Forcing-Plus-Plus",
-                    "stars": 273,
+                    "stars": 274,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
@@ -1856,7 +1856,7 @@
                     "open_issues": 21,
                     "owner": "Soul-AILab",
                     "repo": "SoulX-LiveAct",
-                    "stars": 1226,
+                    "stars": 1228,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
@@ -2333,7 +2333,7 @@
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39073,
+                    "stars": 39080,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2569,7 +2569,7 @@
                         "open_issues": 12,
                         "owner": "jurgisp",
                         "repo": "memory-maze",
-                        "stars": 186,
+                        "stars": 185,
                         "topics": [
                           "benchmark",
                           "reinforcement-learning",
@@ -2963,7 +2963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T20:12:19.105Z",
+    "last_updated": "2026-11-01T20:44:10.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Mechanistic View on Video Generation as World Models: State and Dynamics",
