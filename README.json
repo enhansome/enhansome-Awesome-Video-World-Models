@@ -308,7 +308,7 @@
                             "language": "Python",
                             "license": "MIT",
                             "last_commit": "2026-10-27T09:50:16Z",
-                            "open_issues": 930,
+                            "open_issues": 941,
                             "owner": "FlagOpen",
                             "repo": "FlagEmbedding",
                             "stars": 12317,
@@ -393,7 +393,7 @@
                             "language": "Python",
                             "license": "Apache-2.0",
                             "last_commit": "2025-10-16T01:28:50Z",
-                            "open_issues": 496,
+                            "open_issues": 497,
                             "owner": "lllyasviel",
                             "repo": "FramePack",
                             "stars": 17350,
@@ -557,7 +557,7 @@
                             "open_issues": 5,
                             "owner": "wz0919",
                             "repo": "AnchorWeave",
-                            "stars": 101,
+                            "stars": 102,
                             "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
@@ -578,7 +578,7 @@
                             "open_issues": 0,
                             "owner": "naver-ai",
                             "repo": "seoul-world-model",
-                            "stars": 666,
+                            "stars": 669,
                             "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
@@ -599,7 +599,7 @@
                             "open_issues": 5,
                             "owner": "AMAP-ML",
                             "repo": "DreamX-World",
-                            "stars": 787,
+                            "stars": 788,
                             "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
@@ -976,11 +976,11 @@
                             "id": 871368615,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-11-10T07:19:02Z",
-                            "open_issues": 145,
+                            "last_commit": "2026-11-12T08:45:21Z",
+                            "open_issues": 137,
                             "owner": "NVlabs",
                             "repo": "Sana",
-                            "stars": 9814,
+                            "stars": 9826,
                             "topics": [
                               "diffusion",
                               "dit",
@@ -1672,7 +1672,7 @@
                     "open_issues": 3,
                     "owner": "NVlabs",
                     "repo": "LongLive",
-                    "stars": 2881,
+                    "stars": 2883,
                     "topics": [
                       "infra",
                       "long",
@@ -1856,7 +1856,7 @@
                     "open_issues": 21,
                     "owner": "Soul-AILab",
                     "repo": "SoulX-LiveAct",
-                    "stars": 1238,
+                    "stars": 1242,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
@@ -2115,7 +2115,7 @@
                     "open_issues": 157,
                     "owner": "ByteDance-Seed",
                     "repo": "Bagel",
-                    "stars": 6214,
+                    "stars": 6215,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
@@ -2330,10 +2330,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-11T11:58:31Z",
-                    "open_issues": 2009,
+                    "open_issues": 2012,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39159,
+                    "stars": 39162,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2355,7 +2355,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-21T15:28:08Z",
-                    "open_issues": 74,
+                    "open_issues": 75,
                     "owner": "Vchitect",
                     "repo": "VBench",
                     "stars": 1844,
@@ -2406,7 +2406,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-21T15:28:08Z",
-                    "open_issues": 74,
+                    "open_issues": 75,
                     "owner": "Vchitect",
                     "repo": "VBench",
                     "stars": 1844,
@@ -2508,7 +2508,7 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-08-21T15:28:08Z",
-                        "open_issues": 74,
+                        "open_issues": 75,
                         "owner": "Vchitect",
                         "repo": "VBench",
                         "stars": 1844,
@@ -2569,7 +2569,7 @@
                         "open_issues": 12,
                         "owner": "jurgisp",
                         "repo": "memory-maze",
-                        "stars": 185,
+                        "stars": 186,
                         "topics": [
                           "benchmark",
                           "reinforcement-learning",
@@ -2699,7 +2699,7 @@
                         "open_issues": 5,
                         "owner": "google-deepmind",
                         "repo": "physics-IQ-benchmark",
-                        "stars": 390,
+                        "stars": 391,
                         "topics": [
                           "benchmark",
                           "generative-models",
@@ -2901,7 +2901,7 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2025-09-08T08:52:01Z",
-                        "open_issues": 52,
+                        "open_issues": 53,
                         "owner": "mees",
                         "repo": "calvin",
                         "stars": 1003,
@@ -2963,7 +2963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T22:56:00.255Z",
+    "last_updated": "2026-11-12T22:24:54.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Mechanistic View on Video Generation as World Models: State and Dynamics",
