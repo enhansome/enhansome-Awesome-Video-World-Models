@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "Tencent-Hunyuan",
             "repo": "HY-WorldPlay",
-            "stars": 1626,
+            "stars": 1627,
             "topics": [
               "3d",
               "hunyuan",
@@ -48,7 +48,7 @@
             "open_issues": 41,
             "owner": "Robbyant",
             "repo": "lingbot-world",
-            "stars": 4576,
+            "stars": 4579,
             "topics": [
               "aigc",
               "image-to-video",
@@ -308,10 +308,10 @@
                             "language": "Python",
                             "license": "MIT",
                             "last_commit": "2026-10-27T09:50:16Z",
-                            "open_issues": 941,
+                            "open_issues": 942,
                             "owner": "FlagOpen",
                             "repo": "FlagEmbedding",
-                            "stars": 12317,
+                            "stars": 12318,
                             "topics": [
                               "embeddings",
                               "information-retrieval",
@@ -339,7 +339,7 @@
                             "open_issues": 44,
                             "owner": "parthsarthi03",
                             "repo": "raptor",
-                            "stars": 1780,
+                            "stars": 1783,
                             "topics": [
                               "agents",
                               "clustering",
@@ -396,7 +396,7 @@
                             "open_issues": 497,
                             "owner": "lllyasviel",
                             "repo": "FramePack",
-                            "stars": 17350,
+                            "stars": 17352,
                             "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
@@ -655,7 +655,7 @@
                             "open_issues": 15,
                             "owner": "MoonshotAI",
                             "repo": "MoBA",
-                            "stars": 2199,
+                            "stars": 2198,
                             "topics": [
                               "flash-attention",
                               "llm",
@@ -976,11 +976,11 @@
                             "id": 871368615,
                             "language": "Python",
                             "license": "Apache-2.0",
-                            "last_commit": "2026-11-12T08:45:21Z",
+                            "last_commit": "2026-11-13T18:31:55Z",
                             "open_issues": 137,
                             "owner": "NVlabs",
                             "repo": "Sana",
-                            "stars": 9826,
+                            "stars": 9827,
                             "topics": [
                               "diffusion",
                               "dit",
@@ -1023,7 +1023,7 @@
                             "open_issues": 8,
                             "owner": "test-time-training",
                             "repo": "ttt-video-dit",
-                            "stars": 2453,
+                            "stars": 2454,
                             "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
@@ -1107,7 +1107,7 @@
                             "open_issues": 48,
                             "owner": "Drexubery",
                             "repo": "ViewCrafter",
-                            "stars": 1615,
+                            "stars": 1616,
                             "topics": []
                           },
                           "first_seen": "2026-08-29T00:37:57.597Z"
@@ -1153,7 +1153,7 @@
                             "open_issues": 33,
                             "owner": "nv-tlabs",
                             "repo": "GEN3C",
-                            "stars": 1451,
+                            "stars": 1452,
                             "topics": [
                               "3d-graphics",
                               "camera-control",
@@ -1262,7 +1262,7 @@
                             "open_issues": 30,
                             "owner": "Tencent-Hunyuan",
                             "repo": "HunyuanWorld-Voyager",
-                            "stars": 1605,
+                            "stars": 1606,
                             "topics": [
                               "3d",
                               "3d-generation",
@@ -1336,10 +1336,10 @@
                             "language": "Python",
                             "license": "MIT",
                             "last_commit": "2025-11-25T10:42:48Z",
-                            "open_issues": 31,
+                            "open_issues": 32,
                             "owner": "SkyworkAI",
                             "repo": "Matrix-3D",
-                            "stars": 851,
+                            "stars": 852,
                             "topics": [
                               "3d-generation",
                               "3d-reconstruction",
@@ -1516,7 +1516,7 @@
                     "open_issues": 0,
                     "owner": "baaivision",
                     "repo": "NOVA",
-                    "stars": 661,
+                    "stars": 660,
                     "topics": [
                       "autoregressive-models",
                       "diffusion-models",
@@ -1748,7 +1748,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-24T03:51:06Z",
-                    "open_issues": 33,
+                    "open_issues": 34,
                     "owner": "thu-ml",
                     "repo": "Causal-Forcing",
                     "stars": 1026,
@@ -1856,7 +1856,7 @@
                     "open_issues": 21,
                     "owner": "Soul-AILab",
                     "repo": "SoulX-LiveAct",
-                    "stars": 1242,
+                    "stars": 1244,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:37:57.597Z"
@@ -1916,7 +1916,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-24T03:51:06Z",
-                    "open_issues": 33,
+                    "open_issues": 34,
                     "owner": "thu-ml",
                     "repo": "Causal-Forcing",
                     "stars": 1026,
@@ -2329,11 +2329,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-11T11:58:31Z",
-                    "open_issues": 2012,
+                    "last_commit": "2026-11-13T17:37:12Z",
+                    "open_issues": 2013,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39162,
+                    "stars": 39168,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -2904,7 +2904,7 @@
                         "open_issues": 53,
                         "owner": "mees",
                         "repo": "calvin",
-                        "stars": 1003,
+                        "stars": 1004,
                         "topics": [
                           "computer-vision",
                           "deep-learning",
@@ -2963,7 +2963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:24:54.139Z",
+    "last_updated": "2026-11-13T22:05:32.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Mechanistic View on Video Generation as World Models: State and Dynamics",
@@ -2972,7 +2972,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-06-27T10:34:09Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "hit-perfect",
       "repo": "Awesome-Video-World-Models",
       "stars": 62,
